@@ -1,0 +1,691 @@
+#EXTM3U url-tvg="https://xtream-editor.com/en/get/epg/B2E7230155A8CDADB51C7E163100391D" catchup="xc"
+#EXTINF:-1 tvg-chno="1" tvg-id="AandE.us" tvg-name="AandE.us" tvg-logo="https://edgecdn.io:8443/img/ane.png" group-title="ENGLISH",A&E
+http://20.northerniptv.ca:8080/no2alex/canada123/677
+#EXTINF:-1 tvg-chno="2" tvg-id="abcwcvb.us" tvg-name="abcwcvb.us" tvg-logo="https://edgecdn.io:8443/img/abc.png" group-title="ENGLISH",ABC
+http://20.northerniptv.ca:8080/no2alex/canada123/678
+#EXTINF:-1 tvg-chno="3" tvg-id="abckabc.us" tvg-name="abckabc.us" tvg-logo="https://edgecdn.io:8443/img/abc.png" group-title="ENGLISH",ABC (WEST)
+http://20.northerniptv.ca:8080/no2alex/canada123/15976
+#EXTINF:-1 tvg-chno="4" tvg-id="abcnews.us" tvg-name="abcnews.us" tvg-logo="https://edgecdn.io:8443/img/abcnews.png" group-title="ENGLISH",ABC NEWS
+http://20.northerniptv.ca:8080/no2alex/canada123/3243
+#EXTINF:-1 tvg-chno="5" tvg-id="ABCSpark.ca" tvg-name="ABCSpark.ca" tvg-logo="https://edgecdn.io:8443/img/abc-spark.png" group-title="ENGLISH",ABC SPARK
+http://20.northerniptv.ca:8080/no2alex/canada123/679
+#EXTINF:-1 tvg-chno="6" tvg-id="accuweather.us" tvg-name="accuweather.us" tvg-logo="https://edgecdn.io:8443/img/accuweather.png" group-title="ENGLISH",ACCUWEATHER
+http://20.northerniptv.ca:8080/no2alex/canada123/3244
+#EXTINF:-1 tvg-chno="7" tvg-id="adultswim.ca" tvg-name="adultswim.ca" tvg-logo="https://edgecdn.io:8443/img/adult-swim.png" group-title="ENGLISH",ADULT SWIM
+http://20.northerniptv.ca:8080/no2alex/canada123/680
+#EXTINF:-1 tvg-chno="8" tvg-id="americanheroes.ca" tvg-name="americanheroes.ca" tvg-logo="https://edgecdn.io:8443/img/ahc.png" group-title="ENGLISH",AHC
+http://20.northerniptv.ca:8080/no2alex/canada123/681
+#EXTINF:-1 tvg-chno="9" tvg-id="aljazeera.ca" tvg-name="aljazeera.ca" tvg-logo="https://edgecdn.io:8443/img/aljazeeraus.png" group-title="ENGLISH",ALJAZEERA ENGLISH
+http://20.northerniptv.ca:8080/no2alex/canada123/8127
+#EXTINF:-1 tvg-chno="10" tvg-id="amc.ca" tvg-name="amc.ca" tvg-logo="https://edgecdn.io:8443/img/amc.png" group-title="ENGLISH",AMC
+http://20.northerniptv.ca:8080/no2alex/canada123/10711
+#EXTINF:-1 tvg-chno="11" tvg-id="AMC.us" tvg-name="AMC.us" tvg-logo="https://edgecdn.io:8443/img/amc.png" group-title="ENGLISH",AMC (USA)
+http://20.northerniptv.ca:8080/no2alex/canada123/682
+#EXTINF:-1 tvg-chno="12" tvg-id="animalplanet.us" tvg-name="animalplanet.us" tvg-logo="https://edgecdn.io:8443/img/animal-planet.png" group-title="ENGLISH",ANIMAL PLANET
+http://20.northerniptv.ca:8080/no2alex/canada123/683
+#EXTINF:-1 tvg-chno="13" tvg-id="amitv.ca" tvg-name="amitv.ca" tvg-logo="https://edgecdn.io:8443/img/ami.png" group-title="ENGLISH",AMI
+http://20.northerniptv.ca:8080/no2alex/canada123/32114
+#EXTINF:-1 tvg-chno="14" tvg-id="AntennaTV.us" tvg-name="AntennaTV.us" tvg-logo="https://edgecdn.io:8443/img/antenna.png" group-title="ENGLISH",ANTENNA TV
+http://20.northerniptv.ca:8080/no2alex/canada123/684
+#EXTINF:-1 tvg-chno="15" tvg-id="aptn.ca" tvg-name="aptn.ca" tvg-logo="https://edgecdn.io:8443/img/aptn.png" group-title="ENGLISH",APTN
+http://20.northerniptv.ca:8080/no2alex/canada123/685
+#EXTINF:-1 tvg-chno="16" tvg-id="" tvg-name="A.SIDE" tvg-logo="https://edgecdn.io:8443/img/aside.png" group-title="ENGLISH",A.SIDE
+http://20.northerniptv.ca:8080/no2alex/canada123/32115
+#EXTINF:-1 tvg-chno="17" tvg-id="aspiretv.us" tvg-name="aspiretv.us" tvg-logo="https://edgecdn.io:8443/img/aspire.png" group-title="ENGLISH",ASPIRE
+http://20.northerniptv.ca:8080/no2alex/canada123/1038
+#EXTINF:-1 tvg-chno="18" tvg-id="AXSTV.us" tvg-name="AXSTV.us" tvg-logo="https://edgecdn.io:8443/img/axs.png" group-title="ENGLISH",AXS TV
+http://20.northerniptv.ca:8080/no2alex/canada123/688
+#EXTINF:-1 tvg-chno="19" tvg-id="awe.us" tvg-name="awe.us" tvg-logo="https://edgecdn.io:8443/img/awe.png" group-title="ENGLISH",AWE
+http://20.northerniptv.ca:8080/no2alex/canada123/3246
+#EXTINF:-1 tvg-chno="20" tvg-id="bbc.ca" tvg-name="bbc.ca" tvg-logo="https://edgecdn.io:8443/img/bbc.png" group-title="ENGLISH",BBC CANADA
+http://20.northerniptv.ca:8080/no2alex/canada123/689
+#EXTINF:-1 tvg-chno="21" tvg-id="BBCAmerica.us" tvg-name="BBCAmerica.us" tvg-logo="https://edgecdn.io:8443/img/bbc.png" group-title="ENGLISH",BBC USA
+http://20.northerniptv.ca:8080/no2alex/canada123/690
+#EXTINF:-1 tvg-chno="22" tvg-id="bbcearth.ca" tvg-name="bbcearth.ca" tvg-logo="https://edgecdn.io:8443/img/bbcearth.png" group-title="ENGLISH",BBC EARTH
+http://20.northerniptv.ca:8080/no2alex/canada123/15847
+#EXTINF:-1 tvg-chno="23" tvg-id="bbsnews.ca" tvg-name="bbsnews.ca" tvg-logo="https://edgecdn.io:8443/img/bbc-world.png" group-title="ENGLISH",BBC WORLD NEWS
+http://20.northerniptv.ca:8080/no2alex/canada123/691
+#EXTINF:-1 tvg-chno="24" tvg-id="bet.us" tvg-name="bet.us" tvg-logo="https://edgecdn.io:8443/img/bet.png" group-title="ENGLISH",BET
+http://20.northerniptv.ca:8080/no2alex/canada123/692
+#EXTINF:-1 tvg-chno="25" tvg-id="bether.us" tvg-name="bether.us" tvg-logo="https://edgecdn.io:8443/img/bether.png" group-title="ENGLISH",BET HER
+http://20.northerniptv.ca:8080/no2alex/canada123/693
+#EXTINF:-1 tvg-chno="26" tvg-id="betjams.us" tvg-name="betjams.us" tvg-logo="https://edgecdn.io:8443/img/bet-jams.png" group-title="ENGLISH",BET JAMS
+http://20.northerniptv.ca:8080/no2alex/canada123/1890
+#EXTINF:-1 tvg-chno="27" tvg-id="betsoul.us" tvg-name="betsoul.us" tvg-logo="https://edgecdn.io:8443/img/bet-soul.png" group-title="ENGLISH",BET SOUL
+http://20.northerniptv.ca:8080/no2alex/canada123/1891
+#EXTINF:-1 tvg-chno="28" tvg-id="bnnbloomberg.ca" tvg-name="bnnbloomberg.ca" tvg-logo="https://edgecdn.io:8443/img/bloomberg.png" group-title="ENGLISH",BLOOMBERG
+http://20.northerniptv.ca:8080/no2alex/canada123/696
+#EXTINF:-1 tvg-chno="29" tvg-id="bnnbloomberg.ca" tvg-name="bnnbloomberg.ca" tvg-logo="https://edgecdn.io:8443/img/bnnbloomberg.png" group-title="ENGLISH",BNN BLOOMBERG
+http://20.northerniptv.ca:8080/no2alex/canada123/8871
+#EXTINF:-1 tvg-chno="30" tvg-id="booktele.ca" tvg-name="booktele.ca" tvg-logo="https://edgecdn.io:8443/img/book.png" group-title="ENGLISH",BOOK TV
+http://20.northerniptv.ca:8080/no2alex/canada123/697
+#EXTINF:-1 tvg-chno="31" tvg-id="bouncetv.us" tvg-name="bouncetv.us" tvg-logo="https://edgecdn.io:8443/img/bounce.png" group-title="ENGLISH",BOUNCE
+http://20.northerniptv.ca:8080/no2alex/canada123/698
+#EXTINF:-1 tvg-chno="32" tvg-id="Bravo.us" tvg-name="Bravo.us" tvg-logo="https://edgecdn.io:8443/img/bravo.png" group-title="ENGLISH",BRAVO
+http://20.northerniptv.ca:8080/no2alex/canada123/699
+#EXTINF:-1 tvg-chno="33" tvg-id="bravowest.us" tvg-name="bravowest.us" tvg-logo="https://edgecdn.io:8443/img/bravo.png" group-title="ENGLISH",BRAVO (WEST)
+http://20.northerniptv.ca:8080/no2alex/canada123/10712
+#EXTINF:-1 tvg-chno="34" tvg-id="buzzertv.us" tvg-name="buzzertv.us" tvg-logo="https://edgecdn.io:8443/img/buzzr.png" group-title="ENGLISH",BUZZR
+http://20.northerniptv.ca:8080/no2alex/canada123/700
+#EXTINF:-1 tvg-chno="35" tvg-id="cbcnews.ca" tvg-name="cbcnews.ca" tvg-logo="https://edgecdn.io:8443/img/cbcnews.png" group-title="ENGLISH",CBC NEWS NETWORK
+http://20.northerniptv.ca:8080/no2alex/canada123/1738
+#EXTINF:-1 tvg-chno="36" tvg-id="cbccalgary.ca" tvg-name="cbccalgary.ca" tvg-logo="https://edgecdn.io:8443/img/cbc.png" group-title="ENGLISH",CBC CALGARY
+http://20.northerniptv.ca:8080/no2alex/canada123/702
+#EXTINF:-1 tvg-chno="37" tvg-id="cbccharlottetown.ca" tvg-name="cbccharlottetown.ca" tvg-logo="https://edgecdn.io:8443/img/cbc.png" group-title="ENGLISH",CBC CHARLOTTETOWN
+http://20.northerniptv.ca:8080/no2alex/canada123/1039
+#EXTINF:-1 tvg-chno="38" tvg-id="cbcedmonton.ca" tvg-name="cbcedmonton.ca" tvg-logo="https://edgecdn.io:8443/img/cbc.png" group-title="ENGLISH",CBC EDMONTON
+http://20.northerniptv.ca:8080/no2alex/canada123/1040
+#EXTINF:-1 tvg-chno="39" tvg-id="cbcfredericton.ca" tvg-name="cbcfredericton.ca" tvg-logo="https://edgecdn.io:8443/img/cbc.png" group-title="ENGLISH",CBC FREDERICTON
+http://20.northerniptv.ca:8080/no2alex/canada123/1041
+#EXTINF:-1 tvg-chno="40" tvg-id="cbchalifax.ca" tvg-name="cbchalifax.ca" tvg-logo="https://edgecdn.io:8443/img/cbc.png" group-title="ENGLISH",CBC HALIFAX
+http://20.northerniptv.ca:8080/no2alex/canada123/1042
+#EXTINF:-1 tvg-chno="41" tvg-id="cbcmontreal.ca" tvg-name="cbcmontreal.ca" tvg-logo="https://edgecdn.io:8443/img/cbc.png" group-title="ENGLISH",CBC MONTREAL
+http://20.northerniptv.ca:8080/no2alex/canada123/703
+#EXTINF:-1 tvg-chno="42" tvg-id="cbcottawa.ca" tvg-name="cbcottawa.ca" tvg-logo="https://edgecdn.io:8443/img/cbc.png" group-title="ENGLISH",CBC OTTAWA
+http://20.northerniptv.ca:8080/no2alex/canada123/704
+#EXTINF:-1 tvg-chno="43" tvg-id="cbcregina.ca" tvg-name="cbcregina.ca" tvg-logo="https://edgecdn.io:8443/img/cbc.png" group-title="ENGLISH",CBC REGINA
+http://20.northerniptv.ca:8080/no2alex/canada123/1044
+#EXTINF:-1 tvg-chno="44" tvg-id="cbcstjohn.ca" tvg-name="cbcstjohn.ca" tvg-logo="https://edgecdn.io:8443/img/cbc.png" group-title="ENGLISH",CBC ST JOHNS
+http://20.northerniptv.ca:8080/no2alex/canada123/1045
+#EXTINF:-1 tvg-chno="45" tvg-id="cbctoronto.ca" tvg-name="cbctoronto.ca" tvg-logo="https://edgecdn.io:8443/img/cbc.png" group-title="ENGLISH",CBC TORONTO
+http://20.northerniptv.ca:8080/no2alex/canada123/705
+#EXTINF:-1 tvg-chno="46" tvg-id="cbcvancouver.ca" tvg-name="cbcvancouver.ca" tvg-logo="https://edgecdn.io:8443/img/cbc.png" group-title="ENGLISH",CBC VANCOUVER
+http://20.northerniptv.ca:8080/no2alex/canada123/706
+#EXTINF:-1 tvg-chno="47" tvg-id="cbcwindsor.ca" tvg-name="cbcwindsor.ca" tvg-logo="https://edgecdn.io:8443/img/cbc.png" group-title="ENGLISH",CBC WINDSOR
+http://20.northerniptv.ca:8080/no2alex/canada123/1046
+#EXTINF:-1 tvg-chno="48" tvg-id="cbcwinnipeg.ca" tvg-name="cbcwinnipeg.ca" tvg-logo="https://edgecdn.io:8443/img/cbc.png" group-title="ENGLISH",CBC WINNIPEG
+http://20.northerniptv.ca:8080/no2alex/canada123/1047
+#EXTINF:-1 tvg-chno="49" tvg-id="cbcmanitoba.ca" tvg-name="cbcmanitoba.ca" tvg-logo="https://edgecdn.io:8443/img/cbc.png" group-title="ENGLISH",CBC YELLOWKNIFE
+http://20.northerniptv.ca:8080/no2alex/canada123/1048
+#EXTINF:-1 tvg-chno="50" tvg-id="cbswbz.us" tvg-name="cbswbz.us" tvg-logo="https://edgecdn.io:8443/img/cbs.png" group-title="ENGLISH",CBS
+http://20.northerniptv.ca:8080/no2alex/canada123/941
+#EXTINF:-1 tvg-chno="51" tvg-id="cbskcbs.us" tvg-name="cbskcbs.us" tvg-logo="https://edgecdn.io:8443/img/cbs.png" group-title="ENGLISH",CBS (WEST)
+http://20.northerniptv.ca:8080/no2alex/canada123/15975
+#EXTINF:-1 tvg-chno="52" tvg-id="CBSN" tvg-name="CBSN" tvg-logo="https://edgecdn.io:8443/img/cbsnews.png" group-title="ENGLISH",CBS NEWS
+http://20.northerniptv.ca:8080/no2alex/canada123/40622
+#EXTINF:-1 tvg-chno="53" tvg-id="cbsdrama.uk" tvg-name="cbsdrama.uk" tvg-logo="https://edgecdn.io:8443/img/cbsdrama.png" group-title="ENGLISH",CBS DRAMA
+http://20.northerniptv.ca:8080/no2alex/canada123/1050
+#EXTINF:-1 tvg-chno="54" tvg-id="cbsaction.uk" tvg-name="cbsaction.uk" tvg-logo="https://edgecdn.io:8443/img/cbsjustice.png" group-title="ENGLISH",CBS JUSTICE
+http://20.northerniptv.ca:8080/no2alex/canada123/1049
+#EXTINF:-1 tvg-chno="55" tvg-id="cbsreality.uk" tvg-name="cbsreality.uk" tvg-logo="https://edgecdn.io:8443/img/cbsreality.png" group-title="ENGLISH",CBS REALITY
+http://20.northerniptv.ca:8080/no2alex/canada123/1051
+#EXTINF:-1 tvg-chno="56" tvg-id="ChargeTV.us" tvg-name="ChargeTV.us" tvg-logo="https://edgecdn.io:8443/img/charge.png" group-title="ENGLISH",CHARGE!
+http://20.northerniptv.ca:8080/no2alex/canada123/13531
+#EXTINF:-1 tvg-chno="57" tvg-id="chch.ca" tvg-name="chch.ca" tvg-logo="https://edgecdn.io:8443/img/chch.png" group-title="ENGLISH",CHCH
+http://20.northerniptv.ca:8080/no2alex/canada123/707
+#EXTINF:-1 tvg-chno="58" tvg-id="cheddar.us" tvg-name="cheddar.us" tvg-logo="https://edgecdn.io:8443/img/cheddar.png" group-title="ENGLISH",CHEDDAR BUSINESS
+http://20.northerniptv.ca:8080/no2alex/canada123/708
+#EXTINF:-1 tvg-chno="59" tvg-id="cheddarnews.us" tvg-name="cheddarnews.us" tvg-logo="https://edgecdn.io:8443/img/cheddarnews.png" group-title="ENGLISH",CHEDDAR NEWS
+http://20.northerniptv.ca:8080/no2alex/canada123/709
+#EXTINF:-1 tvg-chno="60" tvg-id="ChekVancouverIsland.ca" tvg-name="ChekVancouverIsland.ca" tvg-logo="https://edgecdn.io:8443/img/chek.png" group-title="ENGLISH",CHEK
+http://20.northerniptv.ca:8080/no2alex/canada123/32116
+#EXTINF:-1 tvg-chno="61" tvg-id="Cinemax.us" tvg-name="Cinemax.us" tvg-logo="https://edgecdn.io:8443/img/cinemax.png" group-title="ENGLISH",CINEMAX
+http://20.northerniptv.ca:8080/no2alex/canada123/710
+#EXTINF:-1 tvg-chno="62" tvg-id="5StarMax.us" tvg-name="5StarMax.us" tvg-logo="https://edgecdn.io:8443/img/5starmax.png" group-title="ENGLISH",CINEMAX 5 STARMAX
+http://20.northerniptv.ca:8080/no2alex/canada123/5068
+#EXTINF:-1 tvg-chno="63" tvg-id="ActionMax.us" tvg-name="ActionMax.us" tvg-logo="https://edgecdn.io:8443/img/actionmax.png" group-title="ENGLISH",CINEMAX ACTIONMAX
+http://20.northerniptv.ca:8080/no2alex/canada123/5069
+#EXTINF:-1 tvg-chno="64" tvg-id="moremax.us" tvg-name="moremax.us" tvg-logo="https://edgecdn.io:8443/img/moremax.png" group-title="ENGLISH",CINEMAX MOREMAX
+http://20.northerniptv.ca:8080/no2alex/canada123/5070
+#EXTINF:-1 tvg-chno="65" tvg-id="moviemax.us" tvg-name="moviemax.us" tvg-logo="https://edgecdn.io:8443/img/moviemax.png" group-title="ENGLISH",CINEMAX MOVIEMAX
+http://20.northerniptv.ca:8080/no2alex/canada123/11453
+#EXTINF:-1 tvg-chno="66" tvg-id="outermax.us" tvg-name="outermax.us" tvg-logo="https://edgecdn.io:8443/img/outermax.png" group-title="ENGLISH",CINEMAX OUTERMAX
+http://20.northerniptv.ca:8080/no2alex/canada123/11452
+#EXTINF:-1 tvg-chno="67" tvg-id="ThrillerMAX.us" tvg-name="ThrillerMAX.us" tvg-logo="https://edgecdn.io:8443/img/thrillermax.png" group-title="ENGLISH",CINEMAX THRILLERMAX
+http://20.northerniptv.ca:8080/no2alex/canada123/10325
+#EXTINF:-1 tvg-chno="68" tvg-id="citytv.ba" tvg-name="citytv.ba" tvg-logo="https://edgecdn.io:8443/img/city.png" group-title="ENGLISH",CITY CALGARY
+http://20.northerniptv.ca:8080/no2alex/canada123/711
+#EXTINF:-1 tvg-chno="69" tvg-id="citymontral.ca" tvg-name="citymontral.ca" tvg-logo="https://edgecdn.io:8443/img/city.png" group-title="ENGLISH",CITY MONTREAL
+http://20.northerniptv.ca:8080/no2alex/canada123/712
+#EXTINF:-1 tvg-chno="70" tvg-id="citytoronto.ca" tvg-name="citytoronto.ca" tvg-logo="https://edgecdn.io:8443/img/city.png" group-title="ENGLISH",CITY TORONTO
+http://20.northerniptv.ca:8080/no2alex/canada123/713
+#EXTINF:-1 tvg-chno="71" tvg-id="cityvancouver.ca" tvg-name="cityvancouver.ca" tvg-logo="https://edgecdn.io:8443/img/city.png" group-title="ENGLISH",CITY VANCOUVER
+http://20.northerniptv.ca:8080/no2alex/canada123/714
+#EXTINF:-1 tvg-chno="72" tvg-id="cmt.us" tvg-name="cmt.us" tvg-logo="https://edgecdn.io:8443/img/cmt.png" group-title="ENGLISH",CMT
+http://20.northerniptv.ca:8080/no2alex/canada123/715
+#EXTINF:-1 tvg-chno="73" tvg-id="CNBC.us" tvg-name="CNBC.us" tvg-logo="https://edgecdn.io:8443/img/cnbc.png" group-title="ENGLISH",CNBC
+http://20.northerniptv.ca:8080/no2alex/canada123/716
+#EXTINF:-1 tvg-chno="74" tvg-id="cnbcworld.us" tvg-name="cnbcworld.us" tvg-logo="https://edgecdn.io:8443/img/cnbc-world.png" group-title="ENGLISH",CNBC WORLD
+http://20.northerniptv.ca:8080/no2alex/canada123/717
+#EXTINF:-1 tvg-chno="75" tvg-id="CNN.us" tvg-name="CNN.us" tvg-logo="https://edgecdn.io:8443/img/cnn.png" group-title="ENGLISH",CNN
+http://20.northerniptv.ca:8080/no2alex/canada123/718
+#EXTINF:-1 tvg-chno="76" tvg-id="cnninternational.us" tvg-name="cnninternational.us" tvg-logo="https://edgecdn.io:8443/img/cnn-international.png" group-title="ENGLISH",CNN INTERNATIONAL
+http://20.northerniptv.ca:8080/no2alex/canada123/719
+#EXTINF:-1 tvg-chno="77" tvg-id="Comet.us" tvg-name="Comet.us" tvg-logo="https://edgecdn.io:8443/img/comet.png" group-title="ENGLISH",COMET
+http://20.northerniptv.ca:8080/no2alex/canada123/721
+#EXTINF:-1 tvg-chno="78" tvg-id="CCHD" tvg-name="CCHD" tvg-logo="https://edgecdn.io:8443/img/comedycentral.png" group-title="ENGLISH",COMEDY CENTRAL
+http://20.northerniptv.ca:8080/no2alex/canada123/720
+#EXTINF:-1 tvg-chno="79" tvg-id="ComedyCentralwest.us" tvg-name="ComedyCentralwest.us" tvg-logo="https://edgecdn.io:8443/img/comedycentral.png" group-title="ENGLISH",COMEDY CENTRAL (WEST)
+http://20.northerniptv.ca:8080/no2alex/canada123/10713
+#EXTINF:-1 tvg-chno="80" tvg-id="" tvg-name="CONTV" tvg-logo="https://edgecdn.io:8443/img/contv.png" group-title="ENGLISH",CONTV
+http://20.northerniptv.ca:8080/no2alex/canada123/13532
+#EXTINF:-1 tvg-chno="81" tvg-id="cookingchannel.us" tvg-name="cookingchannel.us" tvg-logo="https://edgecdn.io:8443/img/cooking.png" group-title="ENGLISH",COOKING CHANNEL
+http://20.northerniptv.ca:8080/no2alex/canada123/722
+#EXTINF:-1 tvg-chno="82" tvg-id="CottageLife.ca" tvg-name="CottageLife.ca" tvg-logo="https://edgecdn.io:8443/img/cottage-life.png" group-title="ENGLISH",COTTAGE LIFE
+http://20.northerniptv.ca:8080/no2alex/canada123/723
+#EXTINF:-1 tvg-chno="83" tvg-id="courtwmyd.us" tvg-name="courtwmyd.us" tvg-logo="https://edgecdn.io:8443/img/courttv.png" group-title="ENGLISH",COURT TV
+http://20.northerniptv.ca:8080/no2alex/canada123/11292
+#EXTINF:-1 tvg-chno="84" tvg-id="thecowboychannel.us" tvg-name="thecowboychannel.us" tvg-logo="https://edgecdn.io:8443/img/cowboychannel.png" group-title="ENGLISH",COWBOY CHANNEL
+http://20.northerniptv.ca:8080/no2alex/canada123/3250
+#EXTINF:-1 tvg-chno="85" tvg-id="CoziTV.us" tvg-name="CoziTV.us" tvg-logo="https://edgecdn.io:8443/img/cozi.png" group-title="ENGLISH",COZI TV
+http://20.northerniptv.ca:8080/no2alex/canada123/724
+#EXTINF:-1 tvg-chno="86" tvg-id="Cp24.ca" tvg-name="Cp24.ca" tvg-logo="https://edgecdn.io:8443/img/cp24.png" group-title="ENGLISH",CP24
+http://20.northerniptv.ca:8080/no2alex/canada123/725
+#EXTINF:-1 tvg-chno="87" tvg-id="cpacottawa.ca" tvg-name="cpacottawa.ca" tvg-logo="https://edgecdn.io:8443/img/cpac.png" group-title="ENGLISH",CPAC
+http://20.northerniptv.ca:8080/no2alex/canada123/726
+#EXTINF:-1 tvg-chno="88" tvg-id="crave1.ca" tvg-name="crave1.ca" tvg-logo="https://edgecdn.io:8443/img/crave.png" group-title="ENGLISH",CRAVE 1
+http://20.northerniptv.ca:8080/no2alex/canada123/727
+#EXTINF:-1 tvg-chno="89" tvg-id="crave2.ca" tvg-name="crave2.ca" tvg-logo="https://edgecdn.io:8443/img/crave.png" group-title="ENGLISH",CRAVE 2
+http://20.northerniptv.ca:8080/no2alex/canada123/728
+#EXTINF:-1 tvg-chno="90" tvg-id="crave3.ca" tvg-name="crave3.ca" tvg-logo="https://edgecdn.io:8443/img/crave.png" group-title="ENGLISH",CRAVE 3
+http://20.northerniptv.ca:8080/no2alex/canada123/729
+#EXTINF:-1 tvg-chno="91" tvg-id="crave4.ca" tvg-name="crave4.ca" tvg-logo="https://edgecdn.io:8443/img/crave.png" group-title="ENGLISH",CRAVE 4
+http://20.northerniptv.ca:8080/no2alex/canada123/730
+#EXTINF:-1 tvg-chno="92" tvg-id="crimeinvestigation.ca" tvg-name="crimeinvestigation.ca" tvg-logo="https://edgecdn.io:8443/img/crime.png" group-title="ENGLISH",CRIME & INVESTIGATION
+http://20.northerniptv.ca:8080/no2alex/canada123/45170
+#EXTINF:-1 tvg-chno="93" tvg-id="cinet.us" tvg-name="cinet.us" tvg-logo="https://edgecdn.io:8443/img/crime.png" group-title="ENGLISH",CRIME & INVESTIGATION (USA)
+http://20.northerniptv.ca:8080/no2alex/canada123/731
+#EXTINF:-1 tvg-chno="94" tvg-id="cspan.us" tvg-name="cspan.us" tvg-logo="https://edgecdn.io:8443/img/cspan1.png" group-title="ENGLISH",C-SPAN 1
+http://20.northerniptv.ca:8080/no2alex/canada123/3251
+#EXTINF:-1 tvg-chno="95" tvg-id="cspan2.us" tvg-name="cspan2.us" tvg-logo="https://edgecdn.io:8443/img/cspan2.png" group-title="ENGLISH",C-SPAN 2
+http://20.northerniptv.ca:8080/no2alex/canada123/3252
+#EXTINF:-1 tvg-chno="96" tvg-id="ctvcomedy.ca" tvg-name="ctvcomedy.ca" tvg-logo="https://edgecdn.io:8443/img/ctv-comedy.png" group-title="ENGLISH",CTV COMEDY
+http://20.northerniptv.ca:8080/no2alex/canada123/732
+#EXTINF:-1 tvg-chno="97" tvg-id="ctvdramachannel.ca" tvg-name="ctvdramachannel.ca" tvg-logo="https://edgecdn.io:8443/img/ctv-drama.png" group-title="ENGLISH",CTV DRAMA
+http://20.northerniptv.ca:8080/no2alex/canada123/733
+#EXTINF:-1 tvg-chno="98" tvg-id="gustotv.ca" tvg-name="gustotv.ca" tvg-logo="https://edgecdn.io:8443/img/ctv-life.png" group-title="ENGLISH",CTV LIFE
+http://20.northerniptv.ca:8080/no2alex/canada123/780
+#EXTINF:-1 tvg-chno="99" tvg-id="space.ca" tvg-name="space.ca" tvg-logo="https://edgecdn.io:8443/img/ctv-scifi.png" group-title="ENGLISH",CTV SCI-FI
+http://20.northerniptv.ca:8080/no2alex/canada123/734
+#EXTINF:-1 tvg-chno="100" tvg-id="CTVNews.ca" tvg-name="CTVNews.ca" tvg-logo="https://edgecdn.io:8443/img/ctv-news.png" group-title="ENGLISH",CTV NEWS
+http://20.northerniptv.ca:8080/no2alex/canada123/735
+#EXTINF:-1 tvg-chno="101" tvg-id="ctvcalgary.ca" tvg-name="ctvcalgary.ca" tvg-logo="https://edgecdn.io:8443/img/ctv.png" group-title="ENGLISH",CTV CALGARY
+http://20.northerniptv.ca:8080/no2alex/canada123/736
+#EXTINF:-1 tvg-chno="102" tvg-id="ctvhalifax.ca" tvg-name="ctvhalifax.ca" tvg-logo="https://edgecdn.io:8443/img/ctv.png" group-title="ENGLISH",CTV HALIFAX
+http://20.northerniptv.ca:8080/no2alex/canada123/737
+#EXTINF:-1 tvg-chno="103" tvg-id="ctvkitchener.ca" tvg-name="ctvkitchener.ca" tvg-logo="https://edgecdn.io:8443/img/ctv.png" group-title="ENGLISH",CTV KITCHENER
+http://20.northerniptv.ca:8080/no2alex/canada123/16526
+#EXTINF:-1 tvg-chno="104" tvg-id="ctvmoncton.ca" tvg-name="ctvmoncton.ca" tvg-logo="https://edgecdn.io:8443/img/ctv.png" group-title="ENGLISH",CTV MONCTON
+http://20.northerniptv.ca:8080/no2alex/canada123/32117
+#EXTINF:-1 tvg-chno="105" tvg-id="ctvmontreal.ca" tvg-name="ctvmontreal.ca" tvg-logo="https://edgecdn.io:8443/img/ctv.png" group-title="ENGLISH",CTV MONTREAL
+http://20.northerniptv.ca:8080/no2alex/canada123/738
+#EXTINF:-1 tvg-chno="106" tvg-id="ctvnorthbay.ca" tvg-name="ctvnorthbay.ca" tvg-logo="https://edgecdn.io:8443/img/ctv.png" group-title="ENGLISH",CTV NORTH
+http://20.northerniptv.ca:8080/no2alex/canada123/32118
+#EXTINF:-1 tvg-chno="107" tvg-id="ctvottawa.ca" tvg-name="ctvottawa.ca" tvg-logo="https://edgecdn.io:8443/img/ctv.png" group-title="ENGLISH",CTV OTTAWA
+http://20.northerniptv.ca:8080/no2alex/canada123/739
+#EXTINF:-1 tvg-chno="108" tvg-id="ctvregina.ca" tvg-name="ctvregina.ca" tvg-logo="https://edgecdn.io:8443/img/ctv.png" group-title="ENGLISH",CTV REGINA
+http://20.northerniptv.ca:8080/no2alex/canada123/32119
+#EXTINF:-1 tvg-chno="109" tvg-id="ctvstemarie.ca" tvg-name="ctvstemarie.ca" tvg-logo="https://edgecdn.io:8443/img/ctv.png" group-title="ENGLISH",CTV SAULT STE. MARIE
+http://20.northerniptv.ca:8080/no2alex/canada123/32120
+#EXTINF:-1 tvg-chno="110" tvg-id="ctvsudbury.ca" tvg-name="ctvsudbury.ca" tvg-logo="https://edgecdn.io:8443/img/ctv.png" group-title="ENGLISH",CTV SUDBURY
+http://20.northerniptv.ca:8080/no2alex/canada123/32121
+#EXTINF:-1 tvg-chno="111" tvg-id="ctvsydney.ca" tvg-name="ctvsydney.ca" tvg-logo="https://edgecdn.io:8443/img/ctv.png" group-title="ENGLISH",CTV SYDNEY
+http://20.northerniptv.ca:8080/no2alex/canada123/32122
+#EXTINF:-1 tvg-chno="112" tvg-id="ctvtimmins.ca" tvg-name="ctvtimmins.ca" tvg-logo="https://edgecdn.io:8443/img/ctv.png" group-title="ENGLISH",CTV TIMMINS
+http://20.northerniptv.ca:8080/no2alex/canada123/32123
+#EXTINF:-1 tvg-chno="113" tvg-id="ctvtoronto.ca" tvg-name="ctvtoronto.ca" tvg-logo="https://edgecdn.io:8443/img/ctv.png" group-title="ENGLISH",CTV TORONTO
+http://20.northerniptv.ca:8080/no2alex/canada123/740
+#EXTINF:-1 tvg-chno="114" tvg-id="ctvvancouver.ca" tvg-name="ctvvancouver.ca" tvg-logo="https://edgecdn.io:8443/img/ctv.png" group-title="ENGLISH",CTV VANCOUVER
+http://20.northerniptv.ca:8080/no2alex/canada123/741
+#EXTINF:-1 tvg-chno="115" tvg-id="ctvwinnipeg.ca" tvg-name="ctvwinnipeg.ca" tvg-logo="https://edgecdn.io:8443/img/ctv.png" group-title="ENGLISH",CTV WINNIPEG
+http://20.northerniptv.ca:8080/no2alex/canada123/32124
+#EXTINF:-1 tvg-chno="116" tvg-id="ctv2atlantic.ca" tvg-name="ctv2atlantic.ca" tvg-logo="https://edgecdn.io:8443/img/ctv2.png" group-title="ENGLISH",CTV TWO ATLANTIC
+http://20.northerniptv.ca:8080/no2alex/canada123/743
+#EXTINF:-1 tvg-chno="117" tvg-id="ctv2barrie.ca" tvg-name="ctv2barrie.ca" tvg-logo="https://edgecdn.io:8443/img/ctv2.png" group-title="ENGLISH",CTV TWO BARRIE
+http://20.northerniptv.ca:8080/no2alex/canada123/14497
+#EXTINF:-1 tvg-chno="118" tvg-id="ctv2.ca" tvg-name="ctv2.ca" tvg-logo="https://edgecdn.io:8443/img/ctv2.png" group-title="ENGLISH",CTV TWO LONDON
+http://20.northerniptv.ca:8080/no2alex/canada123/16525
+#EXTINF:-1 tvg-chno="119" tvg-id="ctv2ottawa.ca" tvg-name="ctv2ottawa.ca" tvg-logo="https://edgecdn.io:8443/img/ctv2.png" group-title="ENGLISH",CTV TWO OTTAWA
+http://20.northerniptv.ca:8080/no2alex/canada123/744
+#EXTINF:-1 tvg-chno="120" tvg-id="ctv2toronto.ca" tvg-name="ctv2toronto.ca" tvg-logo="https://edgecdn.io:8443/img/ctv2.png" group-title="ENGLISH",CTV TWO TORONTO
+http://20.northerniptv.ca:8080/no2alex/canada123/32125
+#EXTINF:-1 tvg-chno="121" tvg-id="ctv2vancouver.ca" tvg-name="ctv2vancouver.ca" tvg-logo="https://edgecdn.io:8443/img/ctv2.png" group-title="ENGLISH",CTV TWO VANCOUVER
+http://20.northerniptv.ca:8080/no2alex/canada123/745
+#EXTINF:-1 tvg-chno="122" tvg-id="ctv2vancouver.ca" tvg-name="ctv2vancouver.ca" tvg-logo="https://edgecdn.io:8443/img/ctv2.png" group-title="ENGLISH",CTV TWO VICTORIA
+http://20.northerniptv.ca:8080/no2alex/canada123/32126
+#EXTINF:-1 tvg-chno="123" tvg-id="ctv2windsor.ca" tvg-name="ctv2windsor.ca" tvg-logo="https://edgecdn.io:8443/img/ctv2.png" group-title="ENGLISH",CTV TWO WINDSOR
+http://20.northerniptv.ca:8080/no2alex/canada123/32127
+#EXTINF:-1 tvg-chno="124" tvg-id="cw.us" tvg-name="cw.us" tvg-logo="https://edgecdn.io:8443/img/cw.png" group-title="ENGLISH",CW
+http://20.northerniptv.ca:8080/no2alex/canada123/746
+#EXTINF:-1 tvg-chno="125" tvg-id="" tvg-name="DABL" tvg-logo="https://edgecdn.io:8443/img/dabl.png" group-title="ENGLISH",DABL
+http://20.northerniptv.ca:8080/no2alex/canada123/13533
+#EXTINF:-1 tvg-chno="126" tvg-id="daystar.ca" tvg-name="daystar.ca" tvg-logo="https://edgecdn.io:8443/img/daystar.png" group-title="ENGLISH",DAYSTAR TV
+http://20.northerniptv.ca:8080/no2alex/canada123/747
+#EXTINF:-1 tvg-chno="127" tvg-id="dejaview.ca" tvg-name="dejaview.ca" tvg-logo="https://edgecdn.io:8443/img/dejaview.png" group-title="ENGLISH",DEJAVIEW
+http://20.northerniptv.ca:8080/no2alex/canada123/748
+#EXTINF:-1 tvg-chno="128" tvg-id="DestinationAmerica.us" tvg-name="DestinationAmerica.us" tvg-logo="https://edgecdn.io:8443/img/destination-america.png" group-title="ENGLISH",DESTINATION AMERICA
+http://20.northerniptv.ca:8080/no2alex/canada123/749
+#EXTINF:-1 tvg-chno="129" tvg-id="DiscoveryChannel.ca" tvg-name="DiscoveryChannel.ca" tvg-logo="https://edgecdn.io:8443/img/discovery.png" group-title="ENGLISH",DISCOVERY CHANNEL
+http://20.northerniptv.ca:8080/no2alex/canada123/750
+#EXTINF:-1 tvg-chno="130" tvg-id="discoverychannel.us" tvg-name="discoverychannel.us" tvg-logo="https://edgecdn.io:8443/img/discovery.png" group-title="ENGLISH",DISCOVERY CHANNEL (USA)
+http://20.northerniptv.ca:8080/no2alex/canada123/1737
+#EXTINF:-1 tvg-chno="131" tvg-id="investigationdiscovery.us" tvg-name="investigationdiscovery.us" tvg-logo="https://edgecdn.io:8443/img/discovery-id.png" group-title="ENGLISH",DISCOVERY ID
+http://20.northerniptv.ca:8080/no2alex/canada123/751
+#EXTINF:-1 tvg-chno="132" tvg-id="DiscoveryLifeChannel.us" tvg-name="DiscoveryLifeChannel.us" tvg-logo="https://edgecdn.io:8443/img/discoverylife.png" group-title="ENGLISH",DISCOVERY LIFE
+http://20.northerniptv.ca:8080/no2alex/canada123/752
+#EXTINF:-1 tvg-chno="133" tvg-id="DiscoveryScience.ca" tvg-name="DiscoveryScience.ca" tvg-logo="https://edgecdn.io:8443/img/discovery-science.png" group-title="ENGLISH",DISCOVERY SCIENCE
+http://20.northerniptv.ca:8080/no2alex/canada123/753
+#EXTINF:-1 tvg-chno="134" tvg-id="DiscoveryScience.us" tvg-name="DiscoveryScience.us" tvg-logo="https://edgecdn.io:8443/img/discoverysci.png" group-title="ENGLISH",DISCOVERY SCIENCE (USA)
+http://20.northerniptv.ca:8080/no2alex/canada123/10714
+#EXTINF:-1 tvg-chno="135" tvg-id="discoveryvelocity.ca" tvg-name="discoveryvelocity.ca" tvg-logo="https://edgecdn.io:8443/img/velocity.png" group-title="ENGLISH",DISCOVERY VELOCITY
+http://20.northerniptv.ca:8080/no2alex/canada123/16527
+#EXTINF:-1 tvg-chno="136" tvg-id="motortrend.us" tvg-name="motortrend.us" tvg-logo="https://edgecdn.io:8443/img/velocity.png" group-title="ENGLISH",DISCOVERY VELOCITY (USA)
+http://20.northerniptv.ca:8080/no2alex/canada123/942
+#EXTINF:-1 tvg-chno="137" tvg-id="doityourselfnetwork.ca" tvg-name="doityourselfnetwork.ca" tvg-logo="https://edgecdn.io:8443/img/diy.png" group-title="ENGLISH",DIY
+http://20.northerniptv.ca:8080/no2alex/canada123/754
+#EXTINF:-1 tvg-chno="138" tvg-id="doityourselfnetwork.us" tvg-name="doityourselfnetwork.us" tvg-logo="https://edgecdn.io:8443/img/diy.png" group-title="ENGLISH",DIY (USA)
+http://20.northerniptv.ca:8080/no2alex/canada123/10715
+#EXTINF:-1 tvg-chno="139" tvg-id="documentarychannel.ca" tvg-name="documentarychannel.ca" tvg-logo="https://edgecdn.io:8443/img/documentary.png" group-title="ENGLISH",DOCUMENTARY
+http://20.northerniptv.ca:8080/no2alex/canada123/32128
+#EXTINF:-1 tvg-chno="140" tvg-id="" tvg-name="DOCURAMA" tvg-logo="https://edgecdn.io:8443/img/docurama.png" group-title="ENGLISH",DOCURAMA
+http://20.northerniptv.ca:8080/no2alex/canada123/43587
+#EXTINF:-1 tvg-chno="141" tvg-id="dogtv.us" tvg-name="dogtv.us" tvg-logo="https://edgecdn.io:8443/img/dogtv.png" group-title="ENGLISH",DOG TV
+http://20.northerniptv.ca:8080/no2alex/canada123/3253
+#EXTINF:-1 tvg-chno="142" tvg-id="" tvg-name="DOVE" tvg-logo="https://edgecdn.io:8443/img/dove.png" group-title="ENGLISH",DOVE
+http://20.northerniptv.ca:8080/no2alex/canada123/13534
+#EXTINF:-1 tvg-chno="143" tvg-id="dtour.ca" tvg-name="dtour.ca" tvg-logo="https://edgecdn.io:8443/img/dtour.png" group-title="ENGLISH",DTOUR
+http://20.northerniptv.ca:8080/no2alex/canada123/756
+#EXTINF:-1 tvg-chno="144" tvg-id="EEntertainment.ca" tvg-name="EEntertainment.ca" tvg-logo="https://edgecdn.io:8443/img/e.png" group-title="ENGLISH",E!
+http://20.northerniptv.ca:8080/no2alex/canada123/757
+#EXTINF:-1 tvg-chno="145" tvg-id="eentertainment.us" tvg-name="eentertainment.us" tvg-logo="https://edgecdn.io:8443/img/e.png" group-title="ENGLISH",E! (USA)
+http://20.northerniptv.ca:8080/no2alex/canada123/13660
+#EXTINF:-1 tvg-chno="146" tvg-id="ElReyNetwork.us" tvg-name="ElReyNetwork.us" tvg-logo="https://edgecdn.io:8443/img/elrey.png" group-title="ENGLISH",ELREY NETWORK
+http://20.northerniptv.ca:8080/no2alex/canada123/758
+#EXTINF:-1 tvg-chno="147" tvg-id="EPIX.us" tvg-name="EPIX.us" tvg-logo="https://edgecdn.io:8443/img/epix.png" group-title="ENGLISH",EPIX
+http://20.northerniptv.ca:8080/no2alex/canada123/759
+#EXTINF:-1 tvg-chno="148" tvg-id="epix2.us" tvg-name="epix2.us" tvg-logo="https://edgecdn.io:8443/img/epix2.png" group-title="ENGLISH",EPIX 2
+http://20.northerniptv.ca:8080/no2alex/canada123/760
+#EXTINF:-1 tvg-chno="149" tvg-id="EPIXDriveIn.us" tvg-name="EPIXDriveIn.us" tvg-logo="https://edgecdn.io:8443/img/epixdrive.png" group-title="ENGLISH",EPIX DRIVE-IN
+http://20.northerniptv.ca:8080/no2alex/canada123/1052
+#EXTINF:-1 tvg-chno="150" tvg-id="EPIXHits.us" tvg-name="EPIXHits.us" tvg-logo="https://edgecdn.io:8443/img/epix-hits.png" group-title="ENGLISH",EPIX HITS
+http://20.northerniptv.ca:8080/no2alex/canada123/761
+#EXTINF:-1 tvg-chno="151" tvg-id="" tvg-name="ET LIVE" tvg-logo="https://edgecdn.io:8443/img/et.png" group-title="ENGLISH",ET LIVE
+http://20.northerniptv.ca:8080/no2alex/canada123/13535
+#EXTINF:-1 tvg-chno="152" tvg-id="" tvg-name="EURONEWS" tvg-logo="https://edgecdn.io:8443/img/euronews.png" group-title="ENGLISH",EURONEWS
+http://20.northerniptv.ca:8080/no2alex/canada123/30672
+#EXTINF:-1 tvg-chno="153" tvg-id="" tvg-name="FAITH" tvg-logo="https://edgecdn.io:8443/img/faith.png" group-title="ENGLISH",FAITH
+http://20.northerniptv.ca:8080/no2alex/canada123/13536
+#EXTINF:-1 tvg-chno="154" tvg-id="fashiontv.ca" tvg-name="fashiontv.ca" tvg-logo="https://edgecdn.io:8443/img/fashionteve.png" group-title="ENGLISH",FASHION CHANNEL
+http://20.northerniptv.ca:8080/no2alex/canada123/32129
+#EXTINF:-1 tvg-chno="155" tvg-id="folktv.us" tvg-name="folktv.us" tvg-logo="https://edgecdn.io:8443/img/folk.png" group-title="ENGLISH",FOLK TV
+http://20.northerniptv.ca:8080/no2alex/canada123/13537
+#EXTINF:-1 tvg-chno="156" tvg-id="foodnetwork.ca" tvg-name="foodnetwork.ca" tvg-logo="https://edgecdn.io:8443/img/food.png" group-title="ENGLISH",FOOD NETWORK
+http://20.northerniptv.ca:8080/no2alex/canada123/763
+#EXTINF:-1 tvg-chno="157" tvg-id="foodnetwork.us" tvg-name="foodnetwork.us" tvg-logo="https://edgecdn.io:8443/img/food.png" group-title="ENGLISH",FOOD NETWORK (USA)
+http://20.northerniptv.ca:8080/no2alex/canada123/1093
+#EXTINF:-1 tvg-chno="158" tvg-id="foxwfxt.us" tvg-name="foxwfxt.us" tvg-logo="https://edgecdn.io:8443/img/fox.png" group-title="ENGLISH",FOX
+http://20.northerniptv.ca:8080/no2alex/canada123/1053
+#EXTINF:-1 tvg-chno="159" tvg-id="foxkttv.us" tvg-name="foxkttv.us" tvg-logo="https://edgecdn.io:8443/img/fox.png" group-title="ENGLISH",FOX (WEST)
+http://20.northerniptv.ca:8080/no2alex/canada123/15977
+#EXTINF:-1 tvg-chno="160" tvg-id="foxbusiness.us" tvg-name="foxbusiness.us" tvg-logo="https://edgecdn.io:8443/img/foxbusiness.png" group-title="ENGLISH",FOX BUSINESS
+http://20.northerniptv.ca:8080/no2alex/canada123/3254
+#EXTINF:-1 tvg-chno="161" tvg-id="FOXNews.us" tvg-name="FOXNews.us" tvg-logo="https://edgecdn.io:8443/img/fox-news.png" group-title="ENGLISH",FOX NEWS
+http://20.northerniptv.ca:8080/no2alex/canada123/764
+#EXTINF:-1 tvg-chno="162" tvg-id="Freeform.us" tvg-name="Freeform.us" tvg-logo="https://edgecdn.io:8443/img/freeform.png" group-title="ENGLISH",FREEFORM
+http://20.northerniptv.ca:8080/no2alex/canada123/765
+#EXTINF:-1 tvg-chno="163" tvg-id="fuse.dtvnow" tvg-name="fuse.dtvnow" tvg-logo="https://edgecdn.io:8443/img/fuse.png" group-title="ENGLISH",FUSE
+http://20.northerniptv.ca:8080/no2alex/canada123/766
+#EXTINF:-1 tvg-chno="164" tvg-id="fmhd.dtvnow" tvg-name="fmhd.dtvnow" tvg-logo="https://edgecdn.io:8443/img/fusemusic.png" group-title="ENGLISH",FUSE MUSIC
+http://20.northerniptv.ca:8080/no2alex/canada123/10716
+#EXTINF:-1 tvg-chno="165" tvg-id="fx.us" tvg-name="fx.us" tvg-logo="https://edgecdn.io:8443/img/fx.png" group-title="ENGLISH",FX
+http://20.northerniptv.ca:8080/no2alex/canada123/768
+#EXTINF:-1 tvg-chno="166" tvg-id="FXMovies.us" tvg-name="FXMovies.us" tvg-logo="https://edgecdn.io:8443/img/fxm.png" group-title="ENGLISH",FXM
+http://20.northerniptv.ca:8080/no2alex/canada123/769
+#EXTINF:-1 tvg-chno="167" tvg-id="FXX.us" tvg-name="FXX.us" tvg-logo="https://edgecdn.io:8443/img/fxx.png" group-title="ENGLISH",FXX
+http://20.northerniptv.ca:8080/no2alex/canada123/770
+#EXTINF:-1 tvg-chno="168" tvg-id="fyi.us" tvg-name="fyi.us" tvg-logo="https://edgecdn.io:8443/img/fyi.png" group-title="ENGLISH",FYI
+http://20.northerniptv.ca:8080/no2alex/canada123/771
+#EXTINF:-1 tvg-chno="169" tvg-id="GameTV.ca" tvg-name="GameTV.ca" tvg-logo="https://edgecdn.io:8443/img/gametv.png" group-title="ENGLISH",GAME TV
+http://20.northerniptv.ca:8080/no2alex/canada123/772
+#EXTINF:-1 tvg-chno="170" tvg-id="gettv.us" tvg-name="gettv.us" tvg-logo="https://edgecdn.io:8443/img/gettv.png" group-title="ENGLISH",GET TV
+http://20.northerniptv.ca:8080/no2alex/canada123/5618
+#EXTINF:-1 tvg-chno="171" tvg-id="globalcalgary.ca" tvg-name="globalcalgary.ca" tvg-logo="https://edgecdn.io:8443/img/global.png" group-title="ENGLISH",GLOBAL CALGARY
+http://20.northerniptv.ca:8080/no2alex/canada123/32513
+#EXTINF:-1 tvg-chno="172" tvg-id="globaldurham.ca" tvg-name="globaldurham.ca" tvg-logo="https://edgecdn.io:8443/img/global.png" group-title="ENGLISH",GLOBAL DURHAM
+http://20.northerniptv.ca:8080/no2alex/canada123/3221
+#EXTINF:-1 tvg-chno="173" tvg-id="hlobalhalifaxCIHF.ca" tvg-name="hlobalhalifaxCIHF.ca" tvg-logo="https://edgecdn.io:8443/img/global.png" group-title="ENGLISH",GLOBAL EDMONTON
+http://20.northerniptv.ca:8080/no2alex/canada123/775
+#EXTINF:-1 tvg-chno="174" tvg-id="hlobalhalifaxCIHF.ca" tvg-name="hlobalhalifaxCIHF.ca" tvg-logo="https://edgecdn.io:8443/img/global.png" group-title="ENGLISH",GLOBAL HALIFAX
+http://20.northerniptv.ca:8080/no2alex/canada123/774
+#EXTINF:-1 tvg-chno="175" tvg-id="Global.ca" tvg-name="Global.ca" tvg-logo="https://edgecdn.io:8443/img/global.png" group-title="ENGLISH",GLOBAL KINGSTON
+http://20.northerniptv.ca:8080/no2alex/canada123/32131
+#EXTINF:-1 tvg-chno="176" tvg-id="globalquebec.ca" tvg-name="globalquebec.ca" tvg-logo="https://edgecdn.io:8443/img/global.png" group-title="ENGLISH",GLOBAL MONTREAL
+http://20.northerniptv.ca:8080/no2alex/canada123/30669
+#EXTINF:-1 tvg-chno="177" tvg-id="hlobalhalifaxCIHF.ca" tvg-name="hlobalhalifaxCIHF.ca" tvg-logo="https://edgecdn.io:8443/img/global.png" group-title="ENGLISH",GLOBAL NEW BRUNSWICK
+http://20.northerniptv.ca:8080/no2alex/canada123/5425
+#EXTINF:-1 tvg-chno="178" tvg-id="globalpetersborough.ca" tvg-name="globalpetersborough.ca" tvg-logo="https://edgecdn.io:8443/img/global.png" group-title="ENGLISH",GLOBAL PETERBOROUGH
+http://20.northerniptv.ca:8080/no2alex/canada123/32132
+#EXTINF:-1 tvg-chno="179" tvg-id="globaltoronto.ca" tvg-name="globaltoronto.ca" tvg-logo="https://edgecdn.io:8443/img/global.png" group-title="ENGLISH",GLOBAL TORONTO
+http://20.northerniptv.ca:8080/no2alex/canada123/776
+#EXTINF:-1 tvg-chno="180" tvg-id="globalbc.ca" tvg-name="globalbc.ca" tvg-logo="https://edgecdn.io:8443/img/global.png" group-title="ENGLISH",GLOBAL VANCOUVER
+http://20.northerniptv.ca:8080/no2alex/canada123/777
+#EXTINF:-1 tvg-chno="181" tvg-id="globalnews.ca" tvg-name="globalnews.ca" tvg-logo="https://edgecdn.io:8443/img/globalnews.png" group-title="ENGLISH",GLOBAL NEWS
+http://20.northerniptv.ca:8080/no2alex/canada123/38428
+#EXTINF:-1 tvg-chno="182" tvg-id="Grit.us" tvg-name="Grit.us" tvg-logo="https://edgecdn.io:8443/img/grit.png" group-title="ENGLISH",GRIT
+http://20.northerniptv.ca:8080/no2alex/canada123/778
+#EXTINF:-1 tvg-chno="183" tvg-id="GreatAmericanCountry.us" tvg-name="GreatAmericanCountry.us" tvg-logo="https://edgecdn.io:8443/img/gac.png" group-title="ENGLISH",GREAT AMERICAN COUNTRY
+http://20.northerniptv.ca:8080/no2alex/canada123/5619
+#EXTINF:-1 tvg-chno="184" tvg-id="gsn.sling" tvg-name="gsn.sling" tvg-logo="https://edgecdn.io:8443/img/gsn.png" group-title="ENGLISH",GSN
+http://20.northerniptv.ca:8080/no2alex/canada123/779
+#EXTINF:-1 tvg-chno="185" tvg-id="hall.dtvnow" tvg-name="hall.dtvnow" tvg-logo="https://edgecdn.io:8443/img/hallmark.png" group-title="ENGLISH",HALLMARK
+http://20.northerniptv.ca:8080/no2alex/canada123/781
+#EXTINF:-1 tvg-chno="186" tvg-id="HallmarkDrama.us" tvg-name="HallmarkDrama.us" tvg-logo="https://edgecdn.io:8443/img/hallmark-drama.png" group-title="ENGLISH",HALLMARK DRAMA
+http://20.northerniptv.ca:8080/no2alex/canada123/782
+#EXTINF:-1 tvg-chno="187" tvg-id="HallmarkMoviesandMysteries.us" tvg-name="HallmarkMoviesandMysteries.us" tvg-logo="https://edgecdn.io:8443/img/hallmark-movies.png" group-title="ENGLISH",HALLMARK MOVIES & MYSTERIES
+http://20.northerniptv.ca:8080/no2alex/canada123/783
+#EXTINF:-1 tvg-chno="188" tvg-id="hbo.ca" tvg-name="hbo.ca" tvg-logo="https://edgecdn.io:8443/img/hbo.png" group-title="ENGLISH",HBO 1
+http://20.northerniptv.ca:8080/no2alex/canada123/784
+#EXTINF:-1 tvg-chno="189" tvg-id="hbo2.us" tvg-name="hbo2.us" tvg-logo="https://edgecdn.io:8443/img/hbo2.png" group-title="ENGLISH",HBO 2
+http://20.northerniptv.ca:8080/no2alex/canada123/785
+#EXTINF:-1 tvg-chno="190" tvg-id="hbo.us" tvg-name="hbo.us" tvg-logo="https://edgecdn.io:8443/img/hbo.png" group-title="ENGLISH",HBO (USA)
+http://20.northerniptv.ca:8080/no2alex/canada123/10717
+#EXTINF:-1 tvg-chno="191" tvg-id="HBOComedy.us" tvg-name="HBOComedy.us" tvg-logo="https://edgecdn.io:8443/img/hbo-comedy.png" group-title="ENGLISH",HBO COMEDY
+http://20.northerniptv.ca:8080/no2alex/canada123/786
+#EXTINF:-1 tvg-chno="192" tvg-id="HBOFamily.us" tvg-name="HBOFamily.us" tvg-logo="https://edgecdn.io:8443/img/hbo-family.png" group-title="ENGLISH",HBO FAMILY
+http://20.northerniptv.ca:8080/no2alex/canada123/787
+#EXTINF:-1 tvg-chno="193" tvg-id="HBOSignature.us" tvg-name="HBOSignature.us" tvg-logo="https://edgecdn.io:8443/img/hbo-signature.png" group-title="ENGLISH",HBO SIGNATURE
+http://20.northerniptv.ca:8080/no2alex/canada123/788
+#EXTINF:-1 tvg-chno="194" tvg-id="HBOZone.us" tvg-name="HBOZone.us" tvg-logo="https://edgecdn.io:8443/img/hbo-zone.png" group-title="ENGLISH",HBO ZONE
+http://20.northerniptv.ca:8080/no2alex/canada123/790
+#EXTINF:-1 tvg-chno="195" tvg-id="hdnetmovies.us" tvg-name="hdnetmovies.us" tvg-logo="https://edgecdn.io:8443/img/hdnet.png" group-title="ENGLISH",HDNET MOVIES
+http://20.northerniptv.ca:8080/no2alex/canada123/3255
+#EXTINF:-1 tvg-chno="196" tvg-id="SuperChannelHeartHome.ca" tvg-name="SuperChannelHeartHome.ca" tvg-logo="https://edgecdn.io:8443/img/heart-home.png" group-title="ENGLISH",HEART & HOME
+http://20.northerniptv.ca:8080/no2alex/canada123/792
+#EXTINF:-1 tvg-chno="197" tvg-id="heroesandiconstv.us" tvg-name="heroesandiconstv.us" tvg-logo="https://edgecdn.io:8443/img/hni.png" group-title="ENGLISH",HEROES AND ICONS
+http://20.northerniptv.ca:8080/no2alex/canada123/11296
+#EXTINF:-1 tvg-chno="198" tvg-id="hgtv.ca" tvg-name="hgtv.ca" tvg-logo="https://edgecdn.io:8443/img/hgtv.png" group-title="ENGLISH",HGTV
+http://20.northerniptv.ca:8080/no2alex/canada123/793
+#EXTINF:-1 tvg-chno="199" tvg-id="hgtv.us" tvg-name="hgtv.us" tvg-logo="https://edgecdn.io:8443/img/hgtv.png" group-title="ENGLISH",HGTV (USA)
+http://20.northerniptv.ca:8080/no2alex/canada123/1724
+#EXTINF:-1 tvg-chno="200" tvg-id="hifi.ca" tvg-name="hifi.ca" tvg-logo="https://edgecdn.io:8443/img/hifi.png" group-title="ENGLISH",HIFI
+http://20.northerniptv.ca:8080/no2alex/canada123/32133
+#EXTINF:-1 tvg-chno="201" tvg-id="historychannel.ca" tvg-name="historychannel.ca" tvg-logo="https://edgecdn.io:8443/img/history.png" group-title="ENGLISH",HISTORY
+http://20.northerniptv.ca:8080/no2alex/canada123/794
+#EXTINF:-1 tvg-chno="202" tvg-id="History.us" tvg-name="History.us" tvg-logo="https://edgecdn.io:8443/img/history.png" group-title="ENGLISH",HISTORY (USA)
+http://20.northerniptv.ca:8080/no2alex/canada123/1723
+#EXTINF:-1 tvg-chno="203" tvg-id="history2.ca" tvg-name="history2.ca" tvg-logo="https://edgecdn.io:8443/img/h2.png" group-title="ENGLISH",HISTORY 2
+http://20.northerniptv.ca:8080/no2alex/canada123/795
+#EXTINF:-1 tvg-chno="204" tvg-id="HLN.ca" tvg-name="HLN.ca" tvg-logo="https://edgecdn.io:8443/img/hln.png" group-title="ENGLISH",HLN
+http://20.northerniptv.ca:8080/no2alex/canada123/796
+#EXTINF:-1 tvg-chno="205" tvg-id="hollywood70s.ca" tvg-name="hollywood70s.ca" tvg-logo="https://edgecdn.io:8443/img/70s.png" group-title="ENGLISH",HOLLYWOOD SUITE 70'S
+http://20.northerniptv.ca:8080/no2alex/canada123/1892
+#EXTINF:-1 tvg-chno="206" tvg-id="hollywood80s.ca" tvg-name="hollywood80s.ca" tvg-logo="https://edgecdn.io:8443/img/80s.png" group-title="ENGLISH",HOLLYWOOD SUITE 80'S
+http://20.northerniptv.ca:8080/no2alex/canada123/1893
+#EXTINF:-1 tvg-chno="207" tvg-id="hollywood90s.ca" tvg-name="hollywood90s.ca" tvg-logo="https://edgecdn.io:8443/img/90s.png" group-title="ENGLISH",HOLLYWOOD SUITE 90'S
+http://20.northerniptv.ca:8080/no2alex/canada123/797
+#EXTINF:-1 tvg-chno="208" tvg-id="hollywood00s.ca" tvg-name="hollywood00s.ca" tvg-logo="https://edgecdn.io:8443/img/00s.png" group-title="ENGLISH",HOLLYWOOD SUITE 00'S
+http://20.northerniptv.ca:8080/no2alex/canada123/1894
+#EXTINF:-1 tvg-chno="209" tvg-id="HSN.us" tvg-name="HSN.us" tvg-logo="https://edgecdn.io:8443/img/hsn.png" group-title="ENGLISH",HSN
+http://20.northerniptv.ca:8080/no2alex/canada123/798
+#EXTINF:-1 tvg-chno="210" tvg-id="IFC.us" tvg-name="IFC.us" tvg-logo="https://edgecdn.io:8443/img/ifc.png" group-title="ENGLISH",IFC
+http://20.northerniptv.ca:8080/no2alex/canada123/800
+#EXTINF:-1 tvg-chno="211" tvg-id="indieplex.us" tvg-name="indieplex.us" tvg-logo="https://edgecdn.io:8443/img/indieplex.png" group-title="ENGLISH",INDIE PLEX
+http://20.northerniptv.ca:8080/no2alex/canada123/3256
+#EXTINF:-1 tvg-chno="212" tvg-id="" tvg-name="INFO WARS" tvg-logo="https://edgecdn.io:8443/img/info-wars.png" group-title="ENGLISH",INFO WARS
+http://20.northerniptv.ca:8080/no2alex/canada123/801
+#EXTINF:-1 tvg-chno="213" tvg-id="BRLIVE3.BRLIVE" tvg-name="BRLIVE3.BRLIVE" tvg-logo="https://edgecdn.io:8443/img/insight.png" group-title="ENGLISH",INSIGHT TV
+http://20.northerniptv.ca:8080/no2alex/canada123/317
+#EXTINF:-1 tvg-chno="214" tvg-id="insp.us" tvg-name="insp.us" tvg-logo="https://edgecdn.io:8443/img/insp.png" group-title="ENGLISH",INSP
+http://20.northerniptv.ca:8080/no2alex/canada123/3257
+#EXTINF:-1 tvg-chno="215" tvg-id="ion.us" tvg-name="ion.us" tvg-logo="https://edgecdn.io:8443/img/ion.png" group-title="ENGLISH",ION
+http://20.northerniptv.ca:8080/no2alex/canada123/1751
+#EXTINF:-1 tvg-chno="216" tvg-id="justicecentral.us" tvg-name="justicecentral.us" tvg-logo="https://edgecdn.io:8443/img/justicecentral.png" group-title="ENGLISH",JUSTICE CENTRAL
+http://20.northerniptv.ca:8080/no2alex/canada123/10718
+#EXTINF:-1 tvg-chno="217" tvg-id="lafftv.us" tvg-name="lafftv.us" tvg-logo="https://edgecdn.io:8443/img/laff.png" group-title="ENGLISH",LAFF TV
+http://20.northerniptv.ca:8080/no2alex/canada123/11299
+#EXTINF:-1 tvg-chno="218" tvg-id="lawcrime.us" tvg-name="lawcrime.us" tvg-logo="https://edgecdn.io:8443/img/lawcrime.png" group-title="ENGLISH",LAW AND CRIME
+http://20.northerniptv.ca:8080/no2alex/canada123/803
+#EXTINF:-1 tvg-chno="219" tvg-id="lifetimetv.ca" tvg-name="lifetimetv.ca" tvg-logo="https://edgecdn.io:8443/img/lifetime.png" group-title="ENGLISH",LIFETIME
+http://20.northerniptv.ca:8080/no2alex/canada123/804
+#EXTINF:-1 tvg-chno="220" tvg-id="lifetimenetwork.us" tvg-name="lifetimenetwork.us" tvg-logo="https://edgecdn.io:8443/img/lifetime.png" group-title="ENGLISH",LIFETIME (USA)
+http://20.northerniptv.ca:8080/no2alex/canada123/9359
+#EXTINF:-1 tvg-chno="221" tvg-id="LifetimeMovies.us" tvg-name="LifetimeMovies.us" tvg-logo="https://edgecdn.io:8443/img/lifetime-movies.png" group-title="ENGLISH",LIFETIME MOVIES
+http://20.northerniptv.ca:8080/no2alex/canada123/805
+#EXTINF:-1 tvg-chno="222" tvg-id="localnow.fubo" tvg-name="localnow.fubo" tvg-logo="https://edgecdn.io:8443/img/localnow.png" group-title="ENGLISH",LOCAL NOW
+http://20.northerniptv.ca:8080/no2alex/canada123/3258
+#EXTINF:-1 tvg-chno="223" tvg-id="logo.us" tvg-name="logo.us" tvg-logo="https://edgecdn.io:8443/img/logo.png" group-title="ENGLISH",LOGO
+http://20.northerniptv.ca:8080/no2alex/canada123/3259
+#EXTINF:-1 tvg-chno="224" tvg-id="" tvg-name="LONE STAR CLASSICS" tvg-logo="https://edgecdn.io:8443/img/lonestar.png" group-title="ENGLISH",LONE STAR CLASSICS
+http://20.northerniptv.ca:8080/no2alex/canada123/43588
+#EXTINF:-1 tvg-chno="225" tvg-id="lovenature.ca" tvg-name="lovenature.ca" tvg-logo="https://edgecdn.io:8443/img/love-nature.png" group-title="ENGLISH",LOVE NATURE
+http://20.northerniptv.ca:8080/no2alex/canada123/807
+#EXTINF:-1 tvg-chno="226" tvg-id="makeful.ca" tvg-name="makeful.ca" tvg-logo="https://edgecdn.io:8443/img/makeful.png" group-title="ENGLISH",MAKEFUL
+http://20.northerniptv.ca:8080/no2alex/canada123/808
+#EXTINF:-1 tvg-chno="227" tvg-id="MeTV.us" tvg-name="MeTV.us" tvg-logo="https://edgecdn.io:8443/img/metv.png" group-title="ENGLISH",METV
+http://20.northerniptv.ca:8080/no2alex/canada123/809
+#EXTINF:-1 tvg-chno="228" tvg-id="mgm.us" tvg-name="mgm.us" tvg-logo="https://edgecdn.io:8443/img/mgm.png" group-title="ENGLISH",MGM
+http://20.northerniptv.ca:8080/no2alex/canada123/3260
+#EXTINF:-1 tvg-chno="229" tvg-id="BRLIVE4.BRLIVE" tvg-name="BRLIVE4.BRLIVE" tvg-logo="https://edgecdn.io:8443/img/mgmscifi.png" group-title="ENGLISH",MGM SCI-FI
+http://20.northerniptv.ca:8080/no2alex/canada123/318
+#EXTINF:-1 tvg-chno="230" tvg-id="" tvg-name="MIRACLE" tvg-logo="https://edgecdn.io:8443/img/miracle.png" group-title="ENGLISH",MIRACLE
+http://20.northerniptv.ca:8080/no2alex/canada123/810
+#EXTINF:-1 tvg-chno="231" tvg-id="movieplex.us" tvg-name="movieplex.us" tvg-logo="https://edgecdn.io:8443/img/movieplex.png" group-title="ENGLISH",MOVIE PLEX
+http://20.northerniptv.ca:8080/no2alex/canada123/3261
+#EXTINF:-1 tvg-chno="232" tvg-id="MovieTime.ca" tvg-name="MovieTime.ca" tvg-logo="https://edgecdn.io:8443/img/movietime.png" group-title="ENGLISH",MOVIETIME
+http://20.northerniptv.ca:8080/no2alex/canada123/811
+#EXTINF:-1 tvg-chno="233" tvg-id="MSNBC.us" tvg-name="MSNBC.us" tvg-logo="https://edgecdn.io:8443/img/msnbc.png" group-title="ENGLISH",MSNBC
+http://20.northerniptv.ca:8080/no2alex/canada123/812
+#EXTINF:-1 tvg-chno="234" tvg-id="mtv.ca" tvg-name="mtv.ca" tvg-logo="https://edgecdn.io:8443/img/mtv.png" group-title="ENGLISH",MTV
+http://20.northerniptv.ca:8080/no2alex/canada123/10719
+#EXTINF:-1 tvg-chno="235" tvg-id="mtv.us" tvg-name="mtv.us" tvg-logo="https://edgecdn.io:8443/img/mtv.png" group-title="ENGLISH",MTV (USA)
+http://20.northerniptv.ca:8080/no2alex/canada123/813
+#EXTINF:-1 tvg-chno="236" tvg-id="MTV2.us" tvg-name="MTV2.us" tvg-logo="https://edgecdn.io:8443/img/mtv2.png" group-title="ENGLISH",MTV 2
+http://20.northerniptv.ca:8080/no2alex/canada123/814
+#EXTINF:-1 tvg-chno="237" tvg-id="mtvclassic.us" tvg-name="mtvclassic.us" tvg-logo="https://edgecdn.io:8443/img/mtv-classic.png" group-title="ENGLISH",MTV CLASSIC
+http://20.northerniptv.ca:8080/no2alex/canada123/3262
+#EXTINF:-1 tvg-chno="238" tvg-id="mtvlive.philo" tvg-name="mtvlive.philo" tvg-logo="https://edgecdn.io:8443/img/mtv-live.png" group-title="ENGLISH",MTV LIVE
+http://20.northerniptv.ca:8080/no2alex/canada123/816
+#EXTINF:-1 tvg-chno="239" tvg-id="mtvu.us" tvg-name="mtvu.us" tvg-logo="https://edgecdn.io:8443/img/mtvu.png" group-title="ENGLISH",MTVU
+http://20.northerniptv.ca:8080/no2alex/canada123/3263
+#EXTINF:-1 tvg-chno="240" tvg-id="MuchMusic.ca" tvg-name="MuchMusic.ca" tvg-logo="https://edgecdn.io:8443/img/much.png" group-title="ENGLISH",MUCH MUSIC
+http://20.northerniptv.ca:8080/no2alex/canada123/817
+#EXTINF:-1 tvg-chno="241" tvg-id="nasatv.us" tvg-name="nasatv.us" tvg-logo="https://edgecdn.io:8443/img/nasatv.png" group-title="ENGLISH",NASA TV
+http://20.northerniptv.ca:8080/no2alex/canada123/40298
+#EXTINF:-1 tvg-chno="242" tvg-id="natgeo.ca" tvg-name="natgeo.ca" tvg-logo="https://edgecdn.io:8443/img/natgeo.png" group-title="ENGLISH",NAT GEO
+http://20.northerniptv.ca:8080/no2alex/canada123/10720
+#EXTINF:-1 tvg-chno="243" tvg-id="natgeo.us" tvg-name="natgeo.us" tvg-logo="https://edgecdn.io:8443/img/natgeo.png" group-title="ENGLISH",NAT GEO (USA)
+http://20.northerniptv.ca:8080/no2alex/canada123/818
+#EXTINF:-1 tvg-chno="244" tvg-id="natgeowild.ca" tvg-name="natgeowild.ca" tvg-logo="https://edgecdn.io:8443/img/natgeo-wild.png" group-title="ENGLISH",NAT GEO WILD
+http://20.northerniptv.ca:8080/no2alex/canada123/10721
+#EXTINF:-1 tvg-chno="245" tvg-id="natgeowild.us" tvg-name="natgeowild.us" tvg-logo="https://edgecdn.io:8443/img/natgeo-wild.png" group-title="ENGLISH",NAT GEO WILD (USA)
+http://20.northerniptv.ca:8080/no2alex/canada123/819
+#EXTINF:-1 tvg-chno="246" tvg-id="" tvg-name="NATURE VISION" tvg-logo="https://edgecdn.io:8443/img/naturevision.png" group-title="ENGLISH",NATURE VISION
+http://20.northerniptv.ca:8080/no2alex/canada123/43591
+#EXTINF:-1 tvg-chno="247" tvg-id="nbcwgrz.us" tvg-name="nbcwgrz.us" tvg-logo="https://edgecdn.io:8443/img/nbc.png" group-title="ENGLISH",NBC
+http://20.northerniptv.ca:8080/no2alex/canada123/1054
+#EXTINF:-1 tvg-chno="248" tvg-id="nbcknbc.us" tvg-name="nbcknbc.us" tvg-logo="https://edgecdn.io:8443/img/nbc.png" group-title="ENGLISH",NBC (WEST)
+http://20.northerniptv.ca:8080/no2alex/canada123/15978
+#EXTINF:-1 tvg-chno="249" tvg-id="" tvg-name="NBC NEWS NOW" tvg-logo="https://edgecdn.io:8443/img/nbcnewsnow.png" group-title="ENGLISH",NBC NEWS NOW
+http://20.northerniptv.ca:8080/no2alex/canada123/30673
+#EXTINF:-1 tvg-chno="250" tvg-id="newenglandcablenews.us" tvg-name="newenglandcablenews.us" tvg-logo="https://edgecdn.io:8443/img/necn.png" group-title="ENGLISH",NECN
+http://20.northerniptv.ca:8080/no2alex/canada123/3264
+#EXTINF:-1 tvg-chno="251" tvg-id="newsy.us" tvg-name="newsy.us" tvg-logo="https://edgecdn.io:8443/img/newsy.png" group-title="ENGLISH",NEWSY
+http://20.northerniptv.ca:8080/no2alex/canada123/3265
+#EXTINF:-1 tvg-chno="252" tvg-id="ntvcjon.ca" tvg-name="ntvcjon.ca" tvg-logo="https://edgecdn.io:8443/img/ntv.png" group-title="ENGLISH",NTV
+http://20.northerniptv.ca:8080/no2alex/canada123/821
+#EXTINF:-1 tvg-chno="253" tvg-id="oneamericanews.us" tvg-name="oneamericanews.us" tvg-logo="https://edgecdn.io:8443/img/oancar.png" group-title="ENGLISH",OAN
+http://20.northerniptv.ca:8080/no2alex/canada123/10722
+#EXTINF:-1 tvg-chno="254" tvg-id="outdoorlife.ca" tvg-name="outdoorlife.ca" tvg-logo="https://edgecdn.io:8443/img/oln.png" group-title="ENGLISH",OLN
+http://20.northerniptv.ca:8080/no2alex/canada123/822
+#EXTINF:-1 tvg-chno="255" tvg-id="omni1.ca" tvg-name="omni1.ca" tvg-logo="https://edgecdn.io:8443/img/omni.png" group-title="ENGLISH",OMNI 1
+http://20.northerniptv.ca:8080/no2alex/canada123/823
+#EXTINF:-1 tvg-chno="256" tvg-id="omni2.ca" tvg-name="omni2.ca" tvg-logo="https://edgecdn.io:8443/img/omni2.png" group-title="ENGLISH",OMNI 2
+http://20.northerniptv.ca:8080/no2alex/canada123/824
+#EXTINF:-1 tvg-chno="257" tvg-id="onegetfit.ca" tvg-name="onegetfit.ca" tvg-logo="https://edgecdn.io:8443/img/one.png" group-title="ENGLISH",ONE GET FIT
+http://20.northerniptv.ca:8080/no2alex/canada123/825
+#EXTINF:-1 tvg-chno="258" tvg-id="outtv.ca" tvg-name="outtv.ca" tvg-logo="https://edgecdn.io:8443/img/outtv.png" group-title="ENGLISH",OUTTV
+http://20.northerniptv.ca:8080/no2alex/canada123/32135
+#EXTINF:-1 tvg-chno="259" tvg-id="ovation.us" tvg-name="ovation.us" tvg-logo="https://edgecdn.io:8443/img/ovation.png" group-title="ENGLISH",OVATION
+http://20.northerniptv.ca:8080/no2alex/canada123/3266
+#EXTINF:-1 tvg-chno="260" tvg-id="toprahwinfreynetwork.ca" tvg-name="toprahwinfreynetwork.ca" tvg-logo="https://edgecdn.io:8443/img/own.png" group-title="ENGLISH",OWN
+http://20.northerniptv.ca:8080/no2alex/canada123/826
+#EXTINF:-1 tvg-chno="261" tvg-id="oprahwinfreynetwork.us" tvg-name="oprahwinfreynetwork.us" tvg-logo="https://edgecdn.io:8443/img/own.png" group-title="ENGLISH",OWN (USA)
+http://20.northerniptv.ca:8080/no2alex/canada123/10723
+#EXTINF:-1 tvg-chno="262" tvg-id="Oxygen.us" tvg-name="Oxygen.us" tvg-logo="https://edgecdn.io:8443/img/oxygen.png" group-title="ENGLISH",OXYGEN
+http://20.northerniptv.ca:8080/no2alex/canada123/827
+#EXTINF:-1 tvg-chno="263" tvg-id="ParamountNetwork.us" tvg-name="ParamountNetwork.us" tvg-logo="https://edgecdn.io:8443/img/paramount.png" group-title="ENGLISH",PARAMOUNT CHANNEL
+http://20.northerniptv.ca:8080/no2alex/canada123/828
+#EXTINF:-1 tvg-chno="264" tvg-id="pbss.us" tvg-name="pbss.us" tvg-logo="https://edgecdn.io:8443/img/pbs.png" group-title="ENGLISH",PBS
+http://20.northerniptv.ca:8080/no2alex/canada123/829
+#EXTINF:-1 tvg-chno="265" tvg-id="Peachtree.ca" tvg-name="Peachtree.ca" tvg-logo="https://edgecdn.io:8443/img/peachtree.png" group-title="ENGLISH",PEACHTREE
+http://20.northerniptv.ca:8080/no2alex/canada123/830
+#EXTINF:-1 tvg-chno="266" tvg-id="peopletv.us" tvg-name="peopletv.us" tvg-logo="https://edgecdn.io:8443/img/peopletv.png" group-title="ENGLISH",PEOPLE TV
+http://20.northerniptv.ca:8080/no2alex/canada123/3267
+#EXTINF:-1 tvg-chno="267" tvg-id="pixltv.us" tvg-name="pixltv.us" tvg-logo="https://edgecdn.io:8443/img/pixl.png" group-title="ENGLISH",PIXL
+http://20.northerniptv.ca:8080/no2alex/canada123/3268
+#EXTINF:-1 tvg-chno="268" tvg-id="Pop.us" tvg-name="Pop.us" tvg-logo="https://edgecdn.io:8443/img/pop.png" group-title="ENGLISH",POP
+http://20.northerniptv.ca:8080/no2alex/canada123/831
+#EXTINF:-1 tvg-chno="269" tvg-id="qvc.us" tvg-name="qvc.us" tvg-logo="https://edgecdn.io:8443/img/qvc.png" group-title="ENGLISH",QVC
+http://20.northerniptv.ca:8080/no2alex/canada123/3269
+#EXTINF:-1 tvg-chno="270" tvg-id="ReelzChannel.us" tvg-name="ReelzChannel.us" tvg-logo="https://edgecdn.io:8443/img/reelz.png" group-title="ENGLISH",REELZ
+http://20.northerniptv.ca:8080/no2alex/canada123/833
+#EXTINF:-1 tvg-chno="271" tvg-id="retroplex.us" tvg-name="retroplex.us" tvg-logo="https://edgecdn.io:8443/img/retroplex.png" group-title="ENGLISH",RETRO PLEX
+http://20.northerniptv.ca:8080/no2alex/canada123/3270
+#EXTINF:-1 tvg-chno="272" tvg-id="revolt.us" tvg-name="revolt.us" tvg-logo="https://edgecdn.io:8443/img/revolt.png" group-title="ENGLISH",REVOLT
+http://20.northerniptv.ca:8080/no2alex/canada123/834
+#EXTINF:-1 tvg-chno="273" tvg-id="rfdtv.us" tvg-name="rfdtv.us" tvg-logo="https://edgecdn.io:8443/img/rfdtv.png" group-title="ENGLISH",RFD TV
+http://20.northerniptv.ca:8080/no2alex/canada123/43040
+#EXTINF:-1 tvg-chno="274" tvg-id="rtnews.us" tvg-name="rtnews.us" tvg-logo="https://edgecdn.io:8443/img/rtnews.png" group-title="ENGLISH",RT NEWS
+http://20.northerniptv.ca:8080/no2alex/canada123/3271
+#EXTINF:-1 tvg-chno="275" tvg-id="saltlighttv.ca" tvg-name="saltlighttv.ca" tvg-logo="https://edgecdn.io:8443/img/saltlight.png" group-title="ENGLISH",SALT & LIGHT
+http://20.northerniptv.ca:8080/no2alex/canada123/13539
+#EXTINF:-1 tvg-chno="276" tvg-id="" tvg-name="SHORTS TV" tvg-logo="https://edgecdn.io:8443/img/shortstv.png" group-title="ENGLISH",SHORTS TV
+http://20.northerniptv.ca:8080/no2alex/canada123/3272
+#EXTINF:-1 tvg-chno="277" tvg-id="ShowtimeShowcase.us" tvg-name="ShowtimeShowcase.us" tvg-logo="https://edgecdn.io:8443/img/showcase.png" group-title="ENGLISH",SHOWCASE
+http://20.northerniptv.ca:8080/no2alex/canada123/836
+#EXTINF:-1 tvg-chno="278" tvg-id="Showtime.us" tvg-name="Showtime.us" tvg-logo="https://edgecdn.io:8443/img/showtime.png" group-title="ENGLISH",SHOWTIME
+http://20.northerniptv.ca:8080/no2alex/canada123/837
+#EXTINF:-1 tvg-chno="279" tvg-id="Showtime2.us" tvg-name="Showtime2.us" tvg-logo="https://edgecdn.io:8443/img/showtime2.png" group-title="ENGLISH",SHOWTIME 2
+http://20.northerniptv.ca:8080/no2alex/canada123/838
+#EXTINF:-1 tvg-chno="280" tvg-id="ShowtimeBeyond.us" tvg-name="ShowtimeBeyond.us" tvg-logo="https://edgecdn.io:8443/img/showtime-beyond.png" group-title="ENGLISH",SHOWTIME BEYOND
+http://20.northerniptv.ca:8080/no2alex/canada123/1055
+#EXTINF:-1 tvg-chno="281" tvg-id="ShowtimeExtreme.us" tvg-name="ShowtimeExtreme.us" tvg-logo="https://edgecdn.io:8443/img/showtime-next.png" group-title="ENGLISH",SHOWTIME EXTREME
+http://20.northerniptv.ca:8080/no2alex/canada123/839
+#EXTINF:-1 tvg-chno="282" tvg-id="ShowtimeFamilyZone.us" tvg-name="ShowtimeFamilyZone.us" tvg-logo="https://edgecdn.io:8443/img/showtime-family.png" group-title="ENGLISH",SHOWTIME FAMILY ZONE
+http://20.northerniptv.ca:8080/no2alex/canada123/1056
+#EXTINF:-1 tvg-chno="283" tvg-id="ShowtimeNext.us" tvg-name="ShowtimeNext.us" tvg-logo="https://edgecdn.io:8443/img/showtime-next.png" group-title="ENGLISH",SHOWTIME NEXT
+http://20.northerniptv.ca:8080/no2alex/canada123/1057
+#EXTINF:-1 tvg-chno="284" tvg-id="ShowtimeWoman.us" tvg-name="ShowtimeWoman.us" tvg-logo="https://edgecdn.io:8443/img/showtime-women.png" group-title="ENGLISH",SHOWTIME WOMEN
+http://20.northerniptv.ca:8080/no2alex/canada123/1058
+#EXTINF:-1 tvg-chno="285" tvg-id="SilverScreenClassics.ca" tvg-name="SilverScreenClassics.ca" tvg-logo="https://edgecdn.io:8443/img/silverscreen.png" group-title="ENGLISH",SILVER SCREEN CLASSICS
+http://20.northerniptv.ca:8080/no2alex/canada123/840
+#EXTINF:-1 tvg-chno="286" tvg-id="SkyAction.uk" tvg-name="SkyAction.uk" tvg-logo="https://edgecdn.io:8443/img/skyaction.png" group-title="ENGLISH",SKY MOVIES ACTION
+http://20.northerniptv.ca:8080/no2alex/canada123/1069
+#EXTINF:-1 tvg-chno="287" tvg-id="SkyComedy.uk" tvg-name="SkyComedy.uk" tvg-logo="https://edgecdn.io:8443/img/skycomedy.png" group-title="ENGLISH",SKY MOVIES COMEDY
+http://20.northerniptv.ca:8080/no2alex/canada123/1070
+#EXTINF:-1 tvg-chno="288" tvg-id="SkyDrama.uk" tvg-name="SkyDrama.uk" tvg-logo="https://edgecdn.io:8443/img/skydrama.png" group-title="ENGLISH",SKY MOVIES DRAMA
+http://20.northerniptv.ca:8080/no2alex/canada123/1072
+#EXTINF:-1 tvg-chno="289" tvg-id="SkyFamily.uk" tvg-name="SkyFamily.uk" tvg-logo="https://edgecdn.io:8443/img/skyfamily.png" group-title="ENGLISH",SKY MOVIES FAMILY
+http://20.northerniptv.ca:8080/no2alex/canada123/1073
+#EXTINF:-1 tvg-chno="290" tvg-id="SkyGreats.uk" tvg-name="SkyGreats.uk" tvg-logo="https://edgecdn.io:8443/img/skygreats.png" group-title="ENGLISH",SKY MOVIES GREATS
+http://20.northerniptv.ca:8080/no2alex/canada123/1076
+#EXTINF:-1 tvg-chno="291" tvg-id="skyhits.uk" tvg-name="skyhits.uk" tvg-logo="https://edgecdn.io:8443/img/skyhits.png" group-title="ENGLISH",SKY MOVIES HITS
+http://20.northerniptv.ca:8080/no2alex/canada123/1077
+#EXTINF:-1 tvg-chno="292" tvg-id="skycinemapremiere.uk" tvg-name="skycinemapremiere.uk" tvg-logo="https://edgecdn.io:8443/img/skypremiere.png" group-title="ENGLISH",SKY MOVIES PREMIERE
+http://20.northerniptv.ca:8080/no2alex/canada123/1074
+#EXTINF:-1 tvg-chno="293" tvg-id="SkySciFiHorror.uk" tvg-name="SkySciFiHorror.uk" tvg-logo="https://edgecdn.io:8443/img/skyscifi.png" group-title="ENGLISH",SKY MOVIES SCI-FI
+http://20.northerniptv.ca:8080/no2alex/canada123/1078
+#EXTINF:-1 tvg-chno="294" tvg-id="SkySelect.uk" tvg-name="SkySelect.uk" tvg-logo="https://edgecdn.io:8443/img/skyselect.png" group-title="ENGLISH",SKY MOVIES SELECT
+http://20.northerniptv.ca:8080/no2alex/canada123/1075
+#EXTINF:-1 tvg-chno="295" tvg-id="SkyCrimeThriller.uk" tvg-name="SkyCrimeThriller.uk" tvg-logo="https://edgecdn.io:8443/img/skythriller.png" group-title="ENGLISH",SKY MOVIES THRILLER
+http://20.northerniptv.ca:8080/no2alex/canada123/1079
+#EXTINF:-1 tvg-chno="296" tvg-id="Slice.ca" tvg-name="Slice.ca" tvg-logo="https://edgecdn.io:8443/img/slice.png" group-title="ENGLISH",SLICE
+http://20.northerniptv.ca:8080/no2alex/canada123/841
+#EXTINF:-1 tvg-chno="297" tvg-id="SmithsonianChannel.us" tvg-name="SmithsonianChannel.us" tvg-logo="https://edgecdn.io:8443/img/smithsonian.png" group-title="ENGLISH",SMITHSONIAN
+http://20.northerniptv.ca:8080/no2alex/canada123/842
+#EXTINF:-1 tvg-chno="298" tvg-id="SonyMovieChannel.us" tvg-name="SonyMovieChannel.us" tvg-logo="https://edgecdn.io:8443/img/sony-movie.png" group-title="ENGLISH",SONY MOVIE CHANNEL
+http://20.northerniptv.ca:8080/no2alex/canada123/843
+#EXTINF:-1 tvg-chno="299" tvg-id="ParamountNetwork.ca" tvg-name="ParamountNetwork.ca" tvg-logo="https://edgecdn.io:8443/img/spike.png" group-title="ENGLISH",SPIKE TV
+http://20.northerniptv.ca:8080/no2alex/canada123/844
+#EXTINF:-1 tvg-chno="300" tvg-id="starz.sling" tvg-name="starz.sling" tvg-logo="https://edgecdn.io:8443/img/starz.png" group-title="ENGLISH",STARZ
+http://20.northerniptv.ca:8080/no2alex/canada123/3222
+#EXTINF:-1 tvg-chno="301" tvg-id="starzwest.us" tvg-name="starzwest.us" tvg-logo="https://edgecdn.io:8443/img/starz.png" group-title="ENGLISH",STARZ (WEST)
+http://20.northerniptv.ca:8080/no2alex/canada123/10724
+#EXTINF:-1 tvg-chno="302" tvg-id="STARZComedy.us" tvg-name="STARZComedy.us" tvg-logo="https://edgecdn.io:8443/img/starz-cinema.png" group-title="ENGLISH",STARZ COMEDY
+http://20.northerniptv.ca:8080/no2alex/canada123/848
+#EXTINF:-1 tvg-chno="303" tvg-id="STARZEdge.us" tvg-name="STARZEdge.us" tvg-logo="https://edgecdn.io:8443/img/starz-edge.png" group-title="ENGLISH",STARZ EDGE
+http://20.northerniptv.ca:8080/no2alex/canada123/849
+#EXTINF:-1 tvg-chno="304" tvg-id="STARZENCORE.us" tvg-name="STARZENCORE.us" tvg-logo="https://edgecdn.io:8443/img/starz-encore.png" group-title="ENGLISH",STARZ ENCORE
+http://20.northerniptv.ca:8080/no2alex/canada123/850
+#EXTINF:-1 tvg-chno="305" tvg-id="starzencoreaction.us" tvg-name="starzencoreaction.us" tvg-logo="https://edgecdn.io:8443/img/starzencoreaction.png" group-title="ENGLISH",STARZ ENCORE ACTION
+http://20.northerniptv.ca:8080/no2alex/canada123/3273
+#EXTINF:-1 tvg-chno="306" tvg-id="starzencoreblack.us" tvg-name="starzencoreblack.us" tvg-logo="https://edgecdn.io:8443/img/starzencoreblack.png" group-title="ENGLISH",STARZ ENCORE BLACK
+http://20.northerniptv.ca:8080/no2alex/canada123/3274
+#EXTINF:-1 tvg-chno="307" tvg-id="starzencoreclassics.us" tvg-name="starzencoreclassics.us" tvg-logo="https://edgecdn.io:8443/img/starzencoreclassic.png" group-title="ENGLISH",STARZ ENCORE CLASSICS
+http://20.northerniptv.ca:8080/no2alex/canada123/3275
+#EXTINF:-1 tvg-chno="308" tvg-id="starzencorefamily.us" tvg-name="starzencorefamily.us" tvg-logo="https://edgecdn.io:8443/img/starzencorefamily.png" group-title="ENGLISH",STARZ ENCORE FAMILY
+http://20.northerniptv.ca:8080/no2alex/canada123/3276
+#EXTINF:-1 tvg-chno="309" tvg-id="starzencoresuspense.us" tvg-name="starzencoresuspense.us" tvg-logo="https://edgecdn.io:8443/img/starzencoresuspense.png" group-title="ENGLISH",STARZ ENCORE SUSPENSE
+http://20.northerniptv.ca:8080/no2alex/canada123/3277
+#EXTINF:-1 tvg-chno="310" tvg-id="STARZENCOREWesterns.us" tvg-name="STARZENCOREWesterns.us" tvg-logo="https://edgecdn.io:8443/img/starz-encore-westerns.png" group-title="ENGLISH",STARZ ENCORE WESTERNS
+http://20.northerniptv.ca:8080/no2alex/canada123/853
+#EXTINF:-1 tvg-chno="311" tvg-id="STARZInBlack.us" tvg-name="STARZInBlack.us" tvg-logo="https://edgecdn.io:8443/img/starz-black.png" group-title="ENGLISH",STARZ IN BLACK
+http://20.northerniptv.ca:8080/no2alex/canada123/854
+#EXTINF:-1 tvg-chno="312" tvg-id="STARZKidsandFamily.us" tvg-name="STARZKidsandFamily.us" tvg-logo="https://edgecdn.io:8443/img/starz-kids.png" group-title="ENGLISH",STARZ KIDS & FAMILY
+http://20.northerniptv.ca:8080/no2alex/canada123/855
+#EXTINF:-1 tvg-chno="313" tvg-id="SundanceChannel.us" tvg-name="SundanceChannel.us" tvg-logo="https://edgecdn.io:8443/img/sundance.png" group-title="ENGLISH",SUNDANCE
+http://20.northerniptv.ca:8080/no2alex/canada123/856
+#EXTINF:-1 tvg-chno="314" tvg-id="SuperChannelFuse.ca" tvg-name="SuperChannelFuse.ca" tvg-logo="https://edgecdn.io:8443/img/scfuse.png" group-title="ENGLISH",SUPER CHANNEL FUSE
+http://20.northerniptv.ca:8080/no2alex/canada123/30677
+#EXTINF:-1 tvg-chno="315" tvg-id="superchannelvault.ca" tvg-name="superchannelvault.ca" tvg-logo="https://edgecdn.io:8443/img/scvault.png" group-title="ENGLISH",SUPER CHANNEL VAULT
+http://20.northerniptv.ca:8080/no2alex/canada123/8435
+#EXTINF:-1 tvg-chno="316" tvg-id="syfy.us" tvg-name="syfy.us" tvg-logo="https://edgecdn.io:8443/img/syfy.png" group-title="ENGLISH",SYFY
+http://20.northerniptv.ca:8080/no2alex/canada123/857
+#EXTINF:-1 tvg-chno="317" tvg-id="taste.philo" tvg-name="taste.philo" tvg-logo="https://edgecdn.io:8443/img/tastemade.png" group-title="ENGLISH",TASTEMADE
+http://20.northerniptv.ca:8080/no2alex/canada123/858
+#EXTINF:-1 tvg-chno="318" tvg-id="tbd.us" tvg-name="tbd.us" tvg-logo="https://edgecdn.io:8443/img/tbdtv.png" group-title="ENGLISH",TBD TV
+http://20.northerniptv.ca:8080/no2alex/canada123/11303
+#EXTINF:-1 tvg-chno="319" tvg-id="TBS.us" tvg-name="TBS.us" tvg-logo="https://edgecdn.io:8443/img/tbs.png" group-title="ENGLISH",TBS
+http://20.northerniptv.ca:8080/no2alex/canada123/859
+#EXTINF:-1 tvg-chno="320" tvg-id="tcm.dtvnow" tvg-name="tcm.dtvnow" tvg-logo="https://edgecdn.io:8443/img/tcm.png" group-title="ENGLISH",TCM
+http://20.northerniptv.ca:8080/no2alex/canada123/860
+#EXTINF:-1 tvg-chno="321" tvg-id="TLC.ca" tvg-name="TLC.ca" tvg-logo="https://edgecdn.io:8443/img/tlc.png" group-title="ENGLISH",TLC
+http://20.northerniptv.ca:8080/no2alex/canada123/861
+#EXTINF:-1 tvg-chno="322" tvg-id="TLC.us" tvg-name="TLC.us" tvg-logo="https://edgecdn.io:8443/img/tlc.png" group-title="ENGLISH",TLC (USA)
+http://20.northerniptv.ca:8080/no2alex/canada123/4791
+#EXTINF:-1 tvg-chno="323" tvg-id="TNT.us" tvg-name="TNT.us" tvg-logo="https://edgecdn.io:8443/img/tnt.png" group-title="ENGLISH",TNT
+http://20.northerniptv.ca:8080/no2alex/canada123/862
+#EXTINF:-1 tvg-chno="324" tvg-id="TravelChannel.us" tvg-name="TravelChannel.us" tvg-logo="https://edgecdn.io:8443/img/travel.png" group-title="ENGLISH",TRAVEL CHANNEL
+http://20.northerniptv.ca:8080/no2alex/canada123/863
+#EXTINF:-1 tvg-chno="325" tvg-id="travelchannelwest.us" tvg-name="travelchannelwest.us" tvg-logo="https://edgecdn.io:8443/img/travel.png" group-title="ENGLISH",TRAVEL CHANNEL (WEST)
+http://20.northerniptv.ca:8080/no2alex/canada123/10725
+#EXTINF:-1 tvg-chno="326" tvg-id="TravelEscape.ca" tvg-name="TravelEscape.ca" tvg-logo="https://edgecdn.io:8443/img/te.png" group-title="ENGLISH",TRAVEL ESCAPE
+http://20.northerniptv.ca:8080/no2alex/canada123/864
+#EXTINF:-1 tvg-chno="327" tvg-id="truTV.us" tvg-name="truTV.us" tvg-logo="https://edgecdn.io:8443/img/trutv.png" group-title="ENGLISH",TRUTV
+http://20.northerniptv.ca:8080/no2alex/canada123/865
+#EXTINF:-1 tvg-chno="328" tvg-id="TheShoppingChannel.ca" tvg-name="TheShoppingChannel.ca" tvg-logo="https://edgecdn.io:8443/img/tsc.png" group-title="ENGLISH",TSC
+http://20.northerniptv.ca:8080/no2alex/canada123/866
+#EXTINF:-1 tvg-chno="329" tvg-id="tvlandeast.us" tvg-name="tvlandeast.us" tvg-logo="https://edgecdn.io:8443/img/tvland.png" group-title="ENGLISH",TV LAND
+http://20.northerniptv.ca:8080/no2alex/canada123/867
+#EXTINF:-1 tvg-chno="330" tvg-id="TVOne.us" tvg-name="TVOne.us" tvg-logo="https://edgecdn.io:8443/img/tv-one.png" group-title="ENGLISH",TV ONE
+http://20.northerniptv.ca:8080/no2alex/canada123/868
+#EXTINF:-1 tvg-chno="331" tvg-id="uptv.us" tvg-name="uptv.us" tvg-logo="https://edgecdn.io:8443/img/uptv.png" group-title="ENGLISH",UP TV
+http://20.northerniptv.ca:8080/no2alex/canada123/3278
+#EXTINF:-1 tvg-chno="332" tvg-id="usanet.hulu" tvg-name="usanet.hulu" tvg-logo="https://edgecdn.io:8443/img/usa-network.png" group-title="ENGLISH",USA NETWORK
+http://20.northerniptv.ca:8080/no2alex/canada123/869
+#EXTINF:-1 tvg-chno="333" tvg-id="usanetworkwest.us" tvg-name="usanetworkwest.us" tvg-logo="https://edgecdn.io:8443/img/usa-network.png" group-title="ENGLISH",USA NETWORK (WEST)
+http://20.northerniptv.ca:8080/no2alex/canada123/10726
+#EXTINF:-1 tvg-chno="334" tvg-id="vh1.us" tvg-name="vh1.us" tvg-logo="https://edgecdn.io:8443/img/vh1.png" group-title="ENGLISH",VH1
+http://20.northerniptv.ca:8080/no2alex/canada123/870
+#EXTINF:-1 tvg-chno="335" tvg-id="viceland.us" tvg-name="viceland.us" tvg-logo="https://edgecdn.io:8443/img/viceland.png" group-title="ENGLISH",VICELAND
+http://20.northerniptv.ca:8080/no2alex/canada123/871
+#EXTINF:-1 tvg-chno="336" tvg-id="visiontv.ca" tvg-name="visiontv.ca" tvg-logo="https://edgecdn.io:8443/img/vision.png" group-title="ENGLISH",VISION
+http://20.northerniptv.ca:8080/no2alex/canada123/872
+#EXTINF:-1 tvg-chno="337" tvg-id="wnetwork.ca" tvg-name="wnetwork.ca" tvg-logo="https://edgecdn.io:8443/img/w.png" group-title="ENGLISH",W NETWORK
+http://20.northerniptv.ca:8080/no2alex/canada123/873
+#EXTINF:-1 tvg-chno="338" tvg-id="WETv.us" tvg-name="WETv.us" tvg-logo="https://edgecdn.io:8443/img/wetv.png" group-title="ENGLISH",WE TV
+http://20.northerniptv.ca:8080/no2alex/canada123/874
+#EXTINF:-1 tvg-chno="339" tvg-id="weatherchannel.us" tvg-name="weatherchannel.us" tvg-logo="https://edgecdn.io:8443/img/weater-channel.png" group-title="ENGLISH",WEATHER CHANNEL
+http://20.northerniptv.ca:8080/no2alex/canada123/875
+#EXTINF:-1 tvg-chno="340" tvg-id="weathernation.us" tvg-name="weathernation.us" tvg-logo="https://edgecdn.io:8443/img/weathernation.png" group-title="ENGLISH",WEATHER NATION
+http://20.northerniptv.ca:8080/no2alex/canada123/3279
+#EXTINF:-1 tvg-chno="341" tvg-id="weathernetwork.ca" tvg-name="weathernetwork.ca" tvg-logo="https://edgecdn.io:8443/img/weather.png" group-title="ENGLISH",WEATHER NETWORK
+http://20.northerniptv.ca:8080/no2alex/canada123/876
+#EXTINF:-1 tvg-chno="342" tvg-id="wgnamerica.us" tvg-name="wgnamerica.us" tvg-logo="https://edgecdn.io:8443/img/wgn.png" group-title="ENGLISH",WGN
+http://20.northerniptv.ca:8080/no2alex/canada123/877
+#EXTINF:-1 tvg-chno="343" tvg-id="wpix.us" tvg-name="wpix.us" tvg-logo="https://edgecdn.io:8443/img/pix.png" group-title="ENGLISH",WPIX
+http://20.northerniptv.ca:8080/no2alex/canada123/878
+#EXTINF:-1 tvg-chno="344" tvg-id="yestv.ca" tvg-name="yestv.ca" tvg-logo="https://edgecdn.io:8443/img/yes.png" group-title="ENGLISH",YES TV
+http://20.northerniptv.ca:8080/no2alex/canada123/879
+#EXTINF:-1 tvg-chno="345" tvg-id="zliving.sling" tvg-name="zliving.sling" tvg-logo="https://edgecdn.io:8443/img/zliving.png" group-title="ENGLISH",Z LIVING
+http://20.northerniptv.ca:8080/no2alex/canada123/43590
